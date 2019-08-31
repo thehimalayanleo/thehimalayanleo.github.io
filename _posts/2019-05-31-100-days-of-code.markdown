@@ -1,0 +1,10 @@
+---
+layout: post
+author: ajinkya
+tags: coding, healthyhabits
+---
+
+I am just beginning to start with the 100 days of code. The plan is to be able to code everyday for 100 days while also working towards a tangible result. My goals in these 100 days are to be able to reproduce every non-trivial algorithm from the book 'Computer Science Distilled', also work on my thesis work by producing an incremental codebas for machine learning (relating to privacy and security). Secondary goals include practicing on hackerrank and building small scale projects like this website.
+
+blah blah
+

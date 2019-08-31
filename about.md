@@ -4,19 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Page under construction.
+I am currently pursuing my Ph.D. (second year) in Electrical and Computer Engineering (ECE) at Purdue University (with Xiaojun Lin and Nicolo Michelusi as my advisors). I am interested in Machine Learning (privacy and security) and Wireless Communications. Previously, I have interned at the Esaki Lab in the University of Tokyo (with Hideya Ochiai and Hiroshi Esaki) and at the Networked Wireless Systems (NeWS) Laboratory in IIT Hyderabad (with Bheemarjuna Reddy and Antony Franklin).
 
-{% comment %}
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+In 2014 I graduated from IIT Hyderabad with my Electrical engineering bachelors (with Honors) degree. My personal leisure activities include hiking, cycling, soccer and participating in adventure races.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
-{% endcomment %}

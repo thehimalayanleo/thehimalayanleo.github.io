@@ -15,7 +15,7 @@
 # in the templates via {{ site.myvariable }}.
 title: The Himalayan Leopard (Ajinkya Mulay)
 email: mulay at the purdue dot edu
-description: This is a website docummenting my research and personal life by the means of blog articles, research articles and an instagram feed. # this means to ignore newlines until "baseurl:"
+description: A website docummenting my research and personal life by the means of blog articles, research articles and an instagram feed. # this means to ignore newlines until "baseurl:"
   
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "thehimalayanleopard.github.io" # the base hostname & protocol for your site, e.g. http://example.com
