@@ -10,4 +10,4 @@ permalink: /resume/
 
 <object data="/assets/Resume-Aug19.pdf" width="1000" height="1000" type='application/pdf'/><p>Your web browser doesn't have a PDF plugin.
   Instead you can <a href="filename.pdf">click here to
-  download the PDF file.</a></p></object>
+  download the PDF file.</a></p>
