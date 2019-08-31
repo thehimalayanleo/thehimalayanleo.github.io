@@ -18,11 +18,11 @@ email: mulay at the purdue dot edu
 description: >- # this means to ignore newlines until "baseurl:"
   
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "thehimalayanleopard.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
 minima:
  social_links:
-  github: thehimalayanleopard
+  github: thehimalayanleo
   instagram: _ajinkya_mulay
   linkedin: ajinkyamulay28
 
