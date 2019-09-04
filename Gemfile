@@ -33,3 +33,6 @@ gem "wdm", "~> 0.1.0" if Gem.win_platform?
 # Gem for querying bibliography
 gem 'jekyll-scholar', group: :jekyll_plugins
 
+# Seo gem
+gem 'jekyll-seo-tag'
+
