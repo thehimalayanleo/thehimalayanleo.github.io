@@ -27,7 +27,7 @@ minima:
   linkedin: ajinkyamulay28
 
 
-google-analytics: UA-146859695-1
+google-analytics: 'UA-146859695-1'
 
 # Build settings
 markdown: kramdown
