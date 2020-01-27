@@ -2,7 +2,7 @@
 <html lang="{{ page.lang | default: site.lang | default: "en" }}">
   <head>
   {%- include head.html -%}
-	{% include mathjax.html %}
+	{%- include mathjax.html -%}
   {% seo %}
   </head>
   <body>
@@ -14,6 +14,9 @@
         {{ content }}
       </div>
     </main>
+
+		<script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript" ></script>
+    <script type="text/x-mathjax-config"> MathJax.Hub.Config({ TeX: { equationNumbers: { autoNumber: "AMS" } } }); </script>
 
     {%- include footer.html -%}
 
