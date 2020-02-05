@@ -10,4 +10,6 @@ Please find the list of my publications under [the research page](/research/) an
 
 ## Updates: ##
 
-* Aug 2019: Started the website. My research paper, (at NeWS Lab at IIT Hyderabad), got published in IEEE Networking Letters. 
+* Aug 2019: Started the website. My research paper "DFC: Dynamic UL-DL Frame Configuration Mechanism for Improving Channel Access in eLAA", (at NeWS Lab at IIT Hyderabad), got published in IEEE Networking Letters. 
+
+* Feb 2020: Published my first blog. 
