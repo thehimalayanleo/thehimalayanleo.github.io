@@ -36,5 +36,4 @@ gem 'jekyll-scholar', group: :jekyll_plugins
 # Seo gem
 gem 'jekyll-seo-tag'
 
-gem "bibtex-ruby", ">= 5.1.0"
 
