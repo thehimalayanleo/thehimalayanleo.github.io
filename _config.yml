@@ -17,16 +17,13 @@ title: The Himalayan Leo (Ajinkya Mulay)
 full_name: Ajinkya Mulay
 email: mulay@purdue.edu
 email2: ajinkyamulay123@gmail.com
-description: A website docummenting my research and personal life by the means of blog articles, research articles and an instagram feed. # this means to ignore newlines until "baseurl:"
+description: A website docummenting my research and personal life by the means of blog articles and research articles. # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://thehimalayanleo.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
 minima:
  social_links:
-  twitter: ajinkya_mulay_
   github: thehimalayanleo
-  instagram: ajinkya_mulay_
-  linkedin: AjinkyaMulay
 
 
 google_analytics: UA-146859695-1
