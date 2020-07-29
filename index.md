@@ -4,7 +4,7 @@
 layout: home
 ---
 
-Hello! I am Ajinkya Mulay, a second year PhD student at Purdue University. I am pursuing my Ph.D. under the guidance of Prof. Xiaojun Lin and Prof. Nicolo Michelusi in the Electrical and Computer Engineering Department. My primary research area is in understanding and tackling the consequences of machine Learning in terms of privacy and security.
+Hello! I am Ajinkya Mulay, a second year PhD student at Purdue University. I am pursuing my Ph.D. under the guidance of Prof. Xiaojun Lin in the Electrical and Computer Engineering Department. My primary research area is in understanding and tackling the consequences of machine Learning in terms of privacy and security.
 
 Please find the list of my publications under [the research page](/research/) and my resume under [the resume page](/resume/).
 
