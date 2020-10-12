@@ -4,14 +4,18 @@
 layout: home
 ---
 
-Hello! I am Ajinkya Mulay, a second year PhD student at Purdue University. I am pursuing my Ph.D. under the guidance of Prof. Xiaojun Lin in the Electrical and Computer Engineering Department. My primary research area is in understanding and tackling the consequences of machine Learning in terms of privacy and security.
+Hello! I am Ajinkya Mulay, a <del>second</del> third year PhD student at Purdue University. I am pursuing my Ph.D. under the guidance of Prof. Xiaojun Lin in the Electrical and Computer Engineering Department. My primary research area is designing algorithms in privacy-preserving Machine Learning.
 
 Please find the list of my publications under [the research page](/research/) and my resume under [the resume page](/resume/).
 
 ## Updates: ##
 
-* Aug 2019: Started the website. My research paper "DFC: Dynamic UL-DL Frame Configuration Mechanism for Improving Channel Access in eLAA", (at NeWS Lab at IIT Hyderabad), got published in IEEE Networking Letters. 
+* Oct 2020: Submitted research article <em>FedPerf: A Practitioners' Guide to Performance of Federated Learning Algorithms</em> to NIPS 2020 Preregistration Workshop.
+
+* Aug 2020: Joined SuperPower Team (PIs: Dr. Erin Hennes and Dr. Sean Lane) as a Graduate Research Assistant, designing automated and <em>smart</em> algorithms for parameter space exploration using Machine Learning Techniques.
+
+* April 2020: Joined OpenMined as a Research Scientist.
 
 * Feb 2020: Published my first blog. 
 
-* April 2020: Joined OpenMined as a Research Scientist.
+* Aug 2019: Started the website. My research paper <em>DFC: Dynamic UL-DL Frame Configuration Mechanism for Improving Channel Access in eLAA</em>, (at NeWS Lab at IIT Hyderabad), got published in IEEE Networking Letters. 
