@@ -10,6 +10,8 @@ Please find the list of my publications under [the research page](/research/) an
 
 ## Updates: ##
 
+* Nov 2020: Our article <em>FedPerf: A Practitioners' Guide to Performance of Federated Learning Algorithms</em>, got accepted to NIPS 2020 Preregistration Workshop. We were amongst the 8 papers invited for a contributed talk for the workshop. Further open-source updates coming soon!
+
 * Oct 2020: Submitted research article <em>FedPerf: A Practitioners' Guide to Performance of Federated Learning Algorithms</em> to NIPS 2020 Preregistration Workshop.
 
 * Aug 2020: Joined SuperPower Team (PIs: Dr. Erin Hennes and Dr. Sean Lane) as a Graduate Research Assistant, designing automated and <em>smart</em> algorithms for parameter space exploration using Machine Learning Techniques.
