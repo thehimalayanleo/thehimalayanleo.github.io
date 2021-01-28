@@ -29,23 +29,8 @@
               span.icon > svg { height : 24px; width : 30px; }
            </style>
 
-						{% comment %}
-            {% for profile in site.data.social-profiles %}
-            {% if profile.username %}
-            <li>
-                <a href="{{ profile.username | prepend: profile.path }}" title="{{ site.title | append: ' on ' | append: profile.title }}" target="_blank">
-                <span class="icon">
-                    {{ profile.icon }}
-                </span>
-                <span class="username">{{ profile.username }}</span>
-                </a>
-            </li>
-            {% endif %}
-            {% endfor %}
-
-						{% endcomment %} 
             <div class="social-links">
-             {%- include social.html -%}
+              {% include social-media-links.html %}
             </div>
 						{% for item in site.data.settings.social %}
              {% if item.icon == 'google-scholar' %}
