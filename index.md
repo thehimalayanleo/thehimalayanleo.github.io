@@ -4,11 +4,13 @@
 layout: home
 ---
 
-Hello! I am Ajinkya Mulay, a <del>second</del> third year PhD student at Purdue University. I am pursuing my Ph.D. under the guidance of Prof. Xiaojun Lin in the Electrical and Computer Engineering Department. My primary research area is designing algorithms in privacy-preserving Machine Learning.
+Hello! I am Ajinkya Mulay, a <del>second</del> third year PhD student at Purdue University. I am pursuing my Ph.D. under the guidance of Prof. Xiaojun Lin in the Electrical and Computer Engineering Department. My primary research area is designing algorithms in Privacy-Preserving Machine Learning.
 
 Please find the list of my publications under [the research page](/research/) and my resume under [the resume page](/resume/).
 
 ## Updates: ##
+
+* Jan 2021: Promoted to Machine Learning Team Lead in the SuperPower research group.
 
 * Nov 2020: Our article <em>FedPerf: A Practitioners' Guide to Performance of Federated Learning Algorithms</em>, got accepted to NIPS 2020 Preregistration Workshop. We were amongst the 8 papers invited for a contributed talk for the workshop. Further open-source updates coming soon!
 

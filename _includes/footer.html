@@ -29,9 +29,8 @@
               span.icon > svg { height : 24px; width : 30px; }
            </style>
 
-            <div class="social-links">
-              {% include social-media-links.html %}
-            </div>
+            
+            {% include social-media-links.html %}
 						{% for item in site.data.settings.social %}
              {% if item.icon == 'google-scholar' %}
                <a href="{{ item.link }}" class="menu-link" target="_blank"><i class="ai ai-{{ item.icon }}" aria-hidden="true"></i> Google Scholar</a>
