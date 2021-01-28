@@ -278,6 +278,7 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
+  bibtex-ruby (>= 4.0.13)
   github-pages
   jekyll-feed (~> 0.6)
   jekyll-scholar
