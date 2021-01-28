@@ -5,7 +5,7 @@ email:
   fa-icon: 'fa-envelope-square'
 
 facebook:
-  id: 'ajinkyamulay'
+  id: 'ajinkyamulay28'
   href: 'https://www.facebook.com/'
   title: 'Facebook'
   fa-icon: 'fa-facebook-square'
@@ -17,10 +17,16 @@ twitter:
   fa-icon: 'fa-twitter-square'
 
 github:
-  id: 'thehimalyanleo'
+  id: 'thehimalayanleo'
   href: 'https://github.com/'
   title: 'GitHub'
   fa-icon: 'fa-github-square'
+
+instagram:
+  id: 'ajinkya_mulay_'
+  href: 'https://instagram.com/'
+  title: 'Instagram'
+  fa-icon: 'fa-instagram-square'
   
 linkedin:
   id: 'ajinkyamulay'
