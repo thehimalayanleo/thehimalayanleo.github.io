@@ -10,7 +10,7 @@ Please find the list of my publications under [the research page](/research/) an
 
 ## Updates: ##
 
-* Feb 2021: Added a new blog post for workflows in Machine Learning Systems at [ML Workflows for Research Scientists](thehimalayanleo.github.io/MLForResearchScientists/) (under continuous construction)
+* Feb 2021: Added a new blog post for workflows in Machine Learning Systems at [ML Workflows for Research Scientists](MLForResearchScientists/) (under continuous construction)
 
 * Jan 2021: Promoted to Machine Learning Team Lead in the SuperPower research group.
 
