@@ -35,8 +35,8 @@ linkedin:
   fa-icon: 'fa-linkedin-square'
   
 medium:
-  id: 
-  href: 'https://thehimalayanleo/medium.com/'
+  id:   'thehimalayanleo'
+  href: 'https://thehimalayanleo.medium.com/'
   title: 'Medium'
   fa-icon: 'fa-medium'
   
