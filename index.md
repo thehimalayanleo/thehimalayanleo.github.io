@@ -6,9 +6,11 @@ layout: home
 
 Hello! I am Ajinkya Mulay, a <del>second</del> third year PhD student at Purdue University. I am pursuing my Ph.D. under the guidance of Prof. Xiaojun Lin in the Electrical and Computer Engineering Department. My primary research area is designing algorithms in Privacy-Preserving Machine Learning.
 
-Please find the list of my publications under [the research page](/research/) and my resume under [the resume page](/resume/).
+Please find the list of my publications under [the research page](/research/) and my CV under [the CV page](/CV/).
 
 ## Updates: ##
+
+* Feb 2021: Started a new blog on differential privacy and federated learning along with my journey in my PhD.
 
 * Feb 2021: Added a new blog post for workflows in Machine Learning Systems at [ML Workflows for Research Scientists](https://thehimalayanleo.github.io/MLForResearchScientists/). Published in Editor's Picks on *[Towards Data Science](https://towardsdatascience.com/)* publication (at [link](https://towardsdatascience.com/machine-learning-workflow-for-research-scientists-fb582538aac1)). 
 

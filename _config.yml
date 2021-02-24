@@ -13,8 +13,8 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: The Himalayan Leo (Ajinkya Mulay)
-full_name: Ajinkya Mulay
+title: Ajinkya K Mulay
+full_name: Ajinkya K Mulay
 email: mulay@purdue.edu
 email2: ajinkyamulay123@gmail.com
 description: A website documenting my research and personal life by the means of blog articles and research articles. # this means to ignore newlines until "baseurl:"
