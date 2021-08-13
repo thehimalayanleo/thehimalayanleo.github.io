@@ -10,7 +10,7 @@ I am broadly interested in Privacy-Preserving Machine, Federated Learning and Au
 
 * Towards Quantifying the Carbon Emissions of Differentially Private Machine Learning <br>
 *Authors:* Rakshit Naidu, Harshita Diddee, _**Ajinkya K Mulay**_, Aleti Vardhan, Krithika Ramesh, Ahmed Zamzam <br>
-[Manuscript Link](arxiv.org/pdf/2107.06946.pdf)
+[Manuscript Link](https://arxiv.org/pdf/2107.06946.pdf)
 
 * FedPerf: A Practitioners’ Guide to Performance of Federated Learning Algorithms <br> 
 *Authors:* _**Ajinkya K Mulay**_ Tushar Semwal, Ayush Manish Agrawal <br>
