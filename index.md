@@ -10,6 +10,8 @@ Please find the list of my publications under [the research page](/research/) an
 
 ## Updates: ##
 
+* June 2021: Our article <em>[Towards Quantifying the Carbon Emissions of Differentially Private Machine Learning](https://arxiv.org/abs/2107.06946)</em> was accepted at the ICML Workshop on Socially Responsible Machine Learning. 
+
 * May 2021: Started internship as PhD SWE at Facebook, Menlo Park.
 
 * Feb 2021: Started a new blog on differential privacy and federated learning along with my journey in my PhD.
