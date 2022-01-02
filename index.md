@@ -10,6 +10,8 @@ Please find the list of my publications under [the research page](/research/) an
 
 ## Updates: ##
 
+* Jan 2022: We released a preprint of our recent work on efficiently graphing multivariate <em>statistical</em> power manifolds with supervised learning techniques. Link coming soon.
+
 * Nov 2021: We discuss recent progress in graphing multivariate <em>statistical</em> power manifolds with novel Machine Learning at the [MCP Colloquium](https://www.purdue.edu/hhs/psy/colloquia/index.html) at Purdue University. Work done with the SuperPower group. Slides and paper incoming soon.
 
 * June 2021: Our article <em>[Towards Quantifying the Carbon Emissions of Differentially Private Machine Learning](https://arxiv.org/abs/2107.06946)</em> was accepted at the ICML Workshop on Socially Responsible Machine Learning. 
