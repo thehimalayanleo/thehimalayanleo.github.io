@@ -27,3 +27,8 @@ I am broadly interested in Privacy-Preserving Machine, Federated Learning and Au
 * A Novel Electric Network Frequency Classification Algorithm And An Electrical Power Signal Measurement Circuit.<br>
 *Authors:* CP Konkimalla, SR Dyuthi, SA, H Machiraju, P Bajjuri, W Akram, P Kumar, _**Ajinkya K Mulay**_, S Siddamsetty, Asvini R, Francis KJ, SS Channappayya. <br>
 [Manuscript Link](https://sigport.org/documents/iith-spcup-project-report-1).
+
+#### **Preprints** ####
+
+* PowerGraph: Using neural networks and principal components to multivariate statistical power trade-offs _**Ajinkya K Mulay**_, Sean Lane, Erin Hennes <br>
+[Manuscript Link](https://arxiv.org/abs/2201.00719)
