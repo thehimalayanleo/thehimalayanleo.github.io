@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-I am currently pursuing my Ph.D. (third year) in Electrical and Computer Engineering (ECE) at Purdue University (with [Prof. Xiaojun Lin](https://engineering.purdue.edu/~linx/)). I am interested in Machine Learning (privacy and security) and Wireless Communications. More specifically, I work on designing private algorithms using Differential Privacy. 
+I am currently pursuing my Ph.D. (fourth year) in Electrical and Computer Engineering (ECE) at Purdue University (with [Prof. Xiaojun Lin](https://engineering.purdue.edu/~linx/)). I am interested in Machine Learning (privacy and security) and Wireless Communications. More specifically, I work on designing private algorithms using Differential Privacy. 
 
 Currently, I work as a Graduate Research Assistant in the SuperPower Research Group, where we design systems to determine the effects of parameters on statistical power. More details can be found on the [the Projects tab](/Projects/).
 
