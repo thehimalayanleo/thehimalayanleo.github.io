@@ -10,6 +10,8 @@ Please find the list of my publications under [the research page](/research/) an
 
 ## Updates: ##
 
+* Mar 2022: Our article 'PowerGraph: Using neural networks and principal components to determine multivariate statistical power trade-offs' has been accepted for an Individual Oral Presentation at the <em>[International Meeting of the Psychometric Society (IMPS) 2022](https://www.psychometricsociety.org/imps-2022)</em>
+
 * Jan 2022: We released a preprint of our recent work on efficiently graphing multivariate <em>statistical</em> power manifolds with supervised learning techniques. Manuscript now available at [PowerGraph: Using neural networks and principal components to multivariate statistical power trade-offs](https://arxiv.org/abs/2201.00719).
 
 * Nov 2021: We discuss recent progress in graphing multivariate <em>statistical</em> power manifolds with novel Machine Learning at the [MCP Colloquium](https://www.purdue.edu/hhs/psy/colloquia/index.html) at Purdue University. Work done with the SuperPower group. Slides and paper incoming soon.
