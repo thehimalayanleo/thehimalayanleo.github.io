@@ -6,7 +6,7 @@ layout: home
 
 Hello! I am Ajinkya Mulay, a <del>second</del> <del>third</del> fourth year PhD student at Purdue University. I am pursuing my Ph.D. under the guidance of Prof. Xiaojun Lin in the Electrical and Computer Engineering Department. My primary research area is designing algorithms in Privacy-Preserving Machine Learning.
 
-Please find the list of my publications under [the research page](/research/) and my CV under [the CV page](/CV/).
+Please find the list of my publications under [the research page](/research/) and my CV under [the CV page](/cv/).
 
 ## Updates: ##
 
