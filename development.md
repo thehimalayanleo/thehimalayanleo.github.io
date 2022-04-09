@@ -6,9 +6,11 @@ permalink: /curious/
 
 Here are a few exploratory items that I do in my free time. Most of these activities involve some sort of NLP technology. If you wish to contribute, you can contact me but I will have a contribution page up and running soon.
 
-## Updates: ##
+### 📌 ###
 
-* **PINNED**: For NLP resources use this [spreadsheet](https://docs.google.com/spreadsheets/d/1KdSxLvppPAdViFV4LOjJw3yOtFncSIKKpjJkSB2jecE/edit?usp=sharing).
+April 2022: All the NLP resources that I use can be found on this [Google Sheet](https://docs.google.com/spreadsheets/d/1KdSxLvppPAdViFV4LOjJw3yOtFncSIKKpjJkSB2jecE/edit?usp=sharing).
+
+### 📰 ### 
 
 * April 2022: Developing the first of its kind, AI and specifically NLP driven Co-Founder Matching Platform specifically for Purdue Students. Highly inspired by the YCombinator Co-Founder Matching Platform (a true pioneer!). For details check out this [link](https://www.anvilstartups.com/cofoundermatching).
 
