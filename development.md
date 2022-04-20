@@ -8,7 +8,7 @@ Here are a few exploratory items that I do in my free time. Most of these activi
 
 ### 📌 ###
 
-April 2022: All the NLP resources that I use can be found on this [Google Sheet](https://docs.google.com/spreadsheets/d/1KdSxLvppPAdViFV4LOjJw3yOtFncSIKKpjJkSB2jecE/edit?usp=sharing).
+* April 2022: All the NLP resources that I use can be found on this [Google Sheet](https://docs.google.com/spreadsheets/d/1KdSxLvppPAdViFV4LOjJw3yOtFncSIKKpjJkSB2jecE/edit?usp=sharing).
 
 ### 📰 ### 
 

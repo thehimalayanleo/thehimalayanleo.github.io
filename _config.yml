@@ -31,8 +31,13 @@ minima:
   linkedin: ajinkyamulay
   facebook: ajinkyamulay28
 
-
+# Analytics
 google_analytics: UA-146859695-1
+
+analytics:
+    google:
+      measurement_id: "G-5JHXY1ZKWY" # for custom domain
+      measurement_id: "G-EG8N5DQJ3V" # for original domain
 
 # Build settings
 markdown: kramdown

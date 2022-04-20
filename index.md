@@ -10,6 +10,8 @@ Please find the list of my publications under [the research page](/research/) an
 
 ## Updates: ##
 
+* Mar 2022: I launched the 101 Days of NLP a popular way of entering a new field. Over the next few months I will be studying NLP in every form that I can. You can follow along on the [*curious page*](/curious/) or on my new Twitter Account [101 Days of NLP](https://twitter.com/101DaysOfNLP). All release code will be a 100% open-source and reusable.
+
 * Mar 2022: We presented our preliminary work, 'How to promote open science under privacy,' an article at the confluence of Social Sciences and Privacy at the Psychological Sciences Department at Purdue University. We are working on a tool in R/Python to enable easy sharing of datasets under privacy guarantees.
 
 * Mar 2022: Our article 'PowerGraph: Using neural networks and principal components to determine multivariate statistical power trade-offs' has been accepted for an Individual Oral Presentation at the <em>[International Meeting of the Psychometric Society (IMPS) 2022](https://www.psychometricsociety.org/imps-2022)</em>
