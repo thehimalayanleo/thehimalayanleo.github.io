@@ -1,0 +1,67 @@
+current directory: /Users/ajinkya/github-repos/thehimalayanleo.github.io/vendor/bundle/ruby/2.6.0/gems/eventmachine-1.0.0/ext
+/System/Library/Frameworks/Ruby.framework/Versions/2.6/usr/bin/ruby -I /Library/Ruby/Site/2.6.0 -r ./siteconf20220512-32208-168n1.rb extconf.rb
+/System/Library/Frameworks/Ruby.framework/Versions/2.6/usr/lib/ruby/2.6.0/universal-darwin21/rbconfig.rb:230: warning: Insecure world writable dir /Users/ajinkya/.local in PATH, mode 040777
+checking for -lssl... no
+checking for rb_trap_immediate in ruby.h,rubysig.h... no
+checking for rb_thread_blocking_region()... no
+checking for inotify_init() in sys/inotify.h... no
+checking for __NR_inotify_init in sys/syscall.h... no
+checking for writev() in sys/uio.h... yes
+checking for rb_thread_check_ints()... yes
+checking for rb_time_new()... yes
+checking for sys/event.h... yes
+checking for sys/queue.h... yes
+creating Makefile
+
+current directory: /Users/ajinkya/github-repos/thehimalayanleo.github.io/vendor/bundle/ruby/2.6.0/gems/eventmachine-1.0.0/ext
+make DESTDIR\= clean
+
+current directory: /Users/ajinkya/github-repos/thehimalayanleo.github.io/vendor/bundle/ruby/2.6.0/gems/eventmachine-1.0.0/ext
+make DESTDIR\=
+compiling binder.cpp
+compiling cmain.cpp
+compiling ed.cpp
+compiling em.cpp
+em.cpp:606:13: error: use of undeclared identifier 'rb_thread_select'; did you mean 'rb_thread_fd_select'?
+        if ((ret = rb_thread_select(kqfd + 1, &fdreads, NULL, NULL, &tv)) < 1) {
+                   ^~~~~~~~~~~~~~~~
+                   rb_thread_fd_select
+/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.3.sdk/System/Library/Frameworks/Ruby.framework/Versions/2.6/usr/include/ruby-2.6.0/ruby/intern.h:478:5: note: 'rb_thread_fd_select' declared here
+int rb_thread_fd_select(int, rb_fdset_t *, rb_fdset_t *, rb_fdset_t *, struct timeval *);
+    ^
+em.cpp:606:40: error: cannot initialize a parameter of type 'rb_fdset_t *' with an rvalue of type 'fd_set *'
+        if ((ret = rb_thread_select(kqfd + 1, &fdreads, NULL, NULL, &tv)) < 1) {
+                                              ^~~~~~~~
+/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.3.sdk/System/Library/Frameworks/Ruby.framework/Versions/2.6/usr/include/ruby-2.6.0/ruby/intern.h:478:42: note: passing argument to parameter here
+int rb_thread_fd_select(int, rb_fdset_t *, rb_fdset_t *, rb_fdset_t *, struct timeval *);
+                                         ^
+em.cpp:825:9: error: use of undeclared identifier 'rb_thread_select'; did you mean 'rb_thread_fd_select'?
+        return EmSelect (maxsocket+1, &fdreads, &fdwrites, &fderrors, &tv);
+               ^~~~~~~~
+               rb_thread_fd_select
+./em.h:25:20: note: expanded from macro 'EmSelect'
+  #define EmSelect rb_thread_select
+                   ^
+/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.3.sdk/System/Library/Frameworks/Ruby.framework/Versions/2.6/usr/include/ruby-2.6.0/ruby/intern.h:478:5: note: 'rb_thread_fd_select' declared here
+int rb_thread_fd_select(int, rb_fdset_t *, rb_fdset_t *, rb_fdset_t *, struct timeval *);
+    ^
+em.cpp:825:32: error: cannot initialize a parameter of type 'rb_fdset_t *' with an rvalue of type 'fd_set *'
+        return EmSelect (maxsocket+1, &fdreads, &fdwrites, &fderrors, &tv);
+                                      ^~~~~~~~
+/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.3.sdk/System/Library/Frameworks/Ruby.framework/Versions/2.6/usr/include/ruby-2.6.0/ruby/intern.h:478:42: note: passing argument to parameter here
+int rb_thread_fd_select(int, rb_fdset_t *, rb_fdset_t *, rb_fdset_t *, struct timeval *);
+                                         ^
+em.cpp:964:6: error: use of undeclared identifier 'rb_thread_select'; did you mean 'rb_thread_fd_select'?
+                                        EmSelect (0, NULL, NULL, NULL, &tv);
+                                        ^~~~~~~~
+                                        rb_thread_fd_select
+./em.h:25:20: note: expanded from macro 'EmSelect'
+  #define EmSelect rb_thread_select
+                   ^
+/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.3.sdk/System/Library/Frameworks/Ruby.framework/Versions/2.6/usr/include/ruby-2.6.0/ruby/intern.h:478:5: note: 'rb_thread_fd_select' declared here
+int rb_thread_fd_select(int, rb_fdset_t *, rb_fdset_t *, rb_fdset_t *, struct timeval *);
+    ^
+5 errors generated.
+make: *** [em.o] Error 1
+
+make failed, exit code 2

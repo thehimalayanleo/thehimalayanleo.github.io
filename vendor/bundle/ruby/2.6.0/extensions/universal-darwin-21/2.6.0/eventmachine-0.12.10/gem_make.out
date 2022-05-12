@@ -1,0 +1,139 @@
+current directory: /Users/ajinkya/github-repos/thehimalayanleo.github.io/vendor/bundle/ruby/2.6.0/gems/eventmachine-0.12.10/ext
+/System/Library/Frameworks/Ruby.framework/Versions/2.6/usr/bin/ruby -I /Library/Ruby/Site/2.6.0 -r ./siteconf20220512-33649-1sjj846.rb extconf.rb
+/System/Library/Frameworks/Ruby.framework/Versions/2.6/usr/lib/ruby/2.6.0/universal-darwin21/rbconfig.rb:230: warning: Insecure world writable dir /Users/ajinkya/.local in PATH, mode 040777
+checking for rb_trap_immediate in ruby.h,rubysig.h... no
+checking for rb_thread_blocking_region()... no
+checking for inotify_init() in sys/inotify.h... no
+checking for __NR_inotify_init in sys/syscall.h... no
+checking for writev() in sys/uio.h... yes
+checking for rb_thread_check_ints()... yes
+checking for rb_time_new()... yes
+checking for sys/event.h... yes
+checking for sys/queue.h... yes
+checking for -lssl... no
+creating Makefile
+
+current directory: /Users/ajinkya/github-repos/thehimalayanleo.github.io/vendor/bundle/ruby/2.6.0/gems/eventmachine-0.12.10/ext
+make DESTDIR\= clean
+
+current directory: /Users/ajinkya/github-repos/thehimalayanleo.github.io/vendor/bundle/ruby/2.6.0/gems/eventmachine-0.12.10/ext
+make DESTDIR\=
+compiling binder.cpp
+compiling cmain.cpp
+compiling cplusplus.cpp
+compiling ed.cpp
+compiling em.cpp
+em.cpp:742:9: error: use of undeclared identifier 'rb_thread_select'; did you mean 'rb_thread_fd_select'?
+        return EmSelect (maxsocket+1, &fdreads, &fdwrites, &fderrors, &tv);
+               ^~~~~~~~
+               rb_thread_fd_select
+./em.h:35:20: note: expanded from macro 'EmSelect'
+  #define EmSelect rb_thread_select
+                   ^
+/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.3.sdk/System/Library/Frameworks/Ruby.framework/Versions/2.6/usr/include/ruby-2.6.0/ruby/intern.h:478:5: note: 'rb_thread_fd_select' declared here
+int rb_thread_fd_select(int, rb_fdset_t *, rb_fdset_t *, rb_fdset_t *, struct timeval *);
+    ^
+em.cpp:742:32: error: cannot initialize a parameter of type 'rb_fdset_t *' with an rvalue of type 'fd_set *'
+        return EmSelect (maxsocket+1, &fdreads, &fdwrites, &fderrors, &tv);
+                                      ^~~~~~~~
+/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.3.sdk/System/Library/Frameworks/Ruby.framework/Versions/2.6/usr/include/ruby-2.6.0/ruby/intern.h:478:42: note: passing argument to parameter here
+int rb_thread_fd_select(int, rb_fdset_t *, rb_fdset_t *, rb_fdset_t *, struct timeval *);
+                                         ^
+em.cpp:873:4: error: use of undeclared identifier 'rb_thread_select'; did you mean 'rb_thread_fd_select'?
+                        EmSelect (0, NULL, NULL, NULL, &tv);
+                        ^~~~~~~~
+                        rb_thread_fd_select
+./em.h:35:20: note: expanded from macro 'EmSelect'
+  #define EmSelect rb_thread_select
+                   ^
+/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.3.sdk/System/Library/Frameworks/Ruby.framework/Versions/2.6/usr/include/ruby-2.6.0/ruby/intern.h:478:5: note: 'rb_thread_fd_select' declared here
+int rb_thread_fd_select(int, rb_fdset_t *, rb_fdset_t *, rb_fdset_t *, struct timeval *);
+    ^
+em.cpp:924:20: warning: implicit conversion of NULL constant to 'const unsigned long' [-Wnull-conversion]
+                (*EventCallback)(NULL, EM_LOOPBREAK_SIGNAL, "", 0);
+                ~                ^~~~
+                                 0
+em.cpp:948:22: warning: implicit conversion of NULL constant to 'const unsigned long' [-Wnull-conversion]
+                        (*EventCallback) (NULL, EM_TIMER_FIRED, NULL, i->second.GetBinding());
+                        ~                 ^~~~
+                                          0
+em.cpp:1089:22: warning: implicit conversion of NULL constant to 'unsigned long' [-Wnull-conversion]
+        unsigned long out = NULL;
+                      ~~~   ^~~~
+                            0
+em.cpp:1218:22: warning: implicit conversion of NULL constant to 'unsigned long' [-Wnull-conversion]
+        unsigned long out = NULL;
+                      ~~~   ^~~~
+                            0
+em.cpp:1221:10: warning: implicit conversion of NULL constant to 'const unsigned long' [-Wnull-conversion]
+                return NULL;
+                ~~~~~~ ^~~~
+                       0
+em.cpp:1237:10: warning: implicit conversion of NULL constant to 'const unsigned long' [-Wnull-conversion]
+                return NULL;
+                ~~~~~~ ^~~~
+                       0
+em.cpp:1243:10: warning: implicit conversion of NULL constant to 'const unsigned long' [-Wnull-conversion]
+                return NULL;
+                ~~~~~~ ^~~~
+                       0
+em.cpp:1249:10: warning: implicit conversion of NULL constant to 'const unsigned long' [-Wnull-conversion]
+                return NULL;
+                ~~~~~~ ^~~~
+                       0
+em.cpp:1453:10: warning: implicit conversion of NULL constant to 'const unsigned long' [-Wnull-conversion]
+                return NULL;
+                ~~~~~~ ^~~~
+                       0
+em.cpp:1455:33: warning: implicit conversion of NULL constant to 'unsigned long' [-Wnull-conversion]
+        unsigned long output_binding = NULL;
+                      ~~~~~~~~~~~~~~   ^~~~
+                                       0
+em.cpp:1535:9: warning: implicit conversion of NULL constant to 'const unsigned long' [-Wnull-conversion]
+        return NULL;
+        ~~~~~~ ^~~~
+               0
+em.cpp:1545:33: warning: implicit conversion of NULL constant to 'unsigned long' [-Wnull-conversion]
+        unsigned long output_binding = NULL;
+                      ~~~~~~~~~~~~~~   ^~~~
+                                       0
+em.cpp:1596:9: warning: implicit conversion of NULL constant to 'const unsigned long' [-Wnull-conversion]
+        return NULL;
+        ~~~~~~ ^~~~
+               0
+em.cpp:1773:10: warning: implicit conversion of NULL constant to 'const unsigned long' [-Wnull-conversion]
+                return NULL;
+                ~~~~~~ ^~~~
+                       0
+em.cpp:1805:33: warning: implicit conversion of NULL constant to 'unsigned long' [-Wnull-conversion]
+        unsigned long output_binding = NULL;
+                      ~~~~~~~~~~~~~~   ^~~~
+                                       0
+em.cpp:1866:9: warning: implicit conversion of NULL constant to 'const unsigned long' [-Wnull-conversion]
+        return NULL;
+        ~~~~~~ ^~~~
+               0
+em.cpp:1927:10: warning: implicit conversion of NULL constant to 'const unsigned long' [-Wnull-conversion]
+                return NULL;
+                ~~~~~~ ^~~~
+                       0
+em.cpp:1932:10: warning: implicit conversion of NULL constant to 'const unsigned long' [-Wnull-conversion]
+                return NULL;
+                ~~~~~~ ^~~~
+                       0
+em.cpp:1934:33: warning: implicit conversion of NULL constant to 'unsigned long' [-Wnull-conversion]
+        unsigned long output_binding = NULL;
+                      ~~~~~~~~~~~~~~   ^~~~
+                                       0
+em.cpp:1938:10: warning: implicit conversion of NULL constant to 'const unsigned long' [-Wnull-conversion]
+                return NULL;
+                ~~~~~~ ^~~~
+                       0
+em.cpp:1948:10: warning: implicit conversion of NULL constant to 'const unsigned long' [-Wnull-conversion]
+                return NULL;
+                ~~~~~~ ^~~~
+                       0
+21 warnings and 3 errors generated.
+make: *** [em.o] Error 1
+
+make failed, exit code 2

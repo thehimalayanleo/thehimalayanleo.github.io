@@ -1,0 +1,5 @@
+--with-cflags=-Wno-errorgem
+install
+rdiscount
+--
+--with-cflags=-Wno-error=implicit-function-declaration=implicit-function-declaration
