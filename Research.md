@@ -30,5 +30,9 @@ I am broadly interested in Privacy-Preserving Machine, Federated Learning and Au
 
 #### **Preprints** ####
 
+* Private Hypothesis Testing for Social Sciences _**Ajinkya K Mulay**_, Sean Lane, Erin Hennes <br>
+[Manuscript Link](https://arxiv.org/abs/2205.05522)
+
+
 * PowerGraph: Using neural networks and principal components to multivariate statistical power trade-offs _**Ajinkya K Mulay**_, Sean Lane, Erin Hennes <br>
 [Manuscript Link](https://arxiv.org/abs/2201.00719)
