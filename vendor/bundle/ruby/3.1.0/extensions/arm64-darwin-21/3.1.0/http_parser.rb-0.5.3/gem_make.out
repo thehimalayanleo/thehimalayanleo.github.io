@@ -1,0 +1,20 @@
+current directory: /Users/ajinkya/github-repos/thehimalayanleo.github.io/vendor/bundle/ruby/3.1.0/gems/http_parser.rb-0.5.3/ext/ruby_http_parser
+/Users/ajinkya/.rvm/rubies/ruby-3.1.2/bin/ruby -I /Users/ajinkya/.rvm/rubies/ruby-3.1.2/lib/ruby/3.1.0 -r ./siteconf20220511-23536-oj6qlu.rb extconf.rb
+creating Makefile
+
+current directory: /Users/ajinkya/github-repos/thehimalayanleo.github.io/vendor/bundle/ruby/3.1.0/gems/http_parser.rb-0.5.3/ext/ruby_http_parser
+make DESTDIR\= clean
+
+current directory: /Users/ajinkya/github-repos/thehimalayanleo.github.io/vendor/bundle/ruby/3.1.0/gems/http_parser.rb-0.5.3/ext/ruby_http_parser
+make DESTDIR\=
+compiling ruby_http_parser.c
+compiling ryah_http_parser.c
+ryah_http_parser.c:1598:19: warning: implicit conversion loses integer precision: 'uint64_t' (aka 'unsigned long long') to 'uint32_t' (aka 'unsigned int') [-Wshorten-64-to-32]
+  parser->nread = nread;
+                ~ ^~~~~
+1 warning generated.
+linking shared-object ruby_http_parser.bundle
+
+current directory: /Users/ajinkya/github-repos/thehimalayanleo.github.io/vendor/bundle/ruby/3.1.0/gems/http_parser.rb-0.5.3/ext/ruby_http_parser
+make DESTDIR\= install
+/opt/homebrew/opt/coreutils/bin/ginstall -c -m 0755 ruby_http_parser.bundle ./.gem.20220511-23536-sur4ej

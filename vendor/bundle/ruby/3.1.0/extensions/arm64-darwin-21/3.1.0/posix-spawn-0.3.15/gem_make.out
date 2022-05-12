@@ -1,0 +1,22 @@
+current directory: /Users/ajinkya/github-repos/thehimalayanleo.github.io/vendor/bundle/ruby/3.1.0/gems/posix-spawn-0.3.15/ext
+/Users/ajinkya/.rvm/rubies/ruby-3.1.2/bin/ruby -I /Users/ajinkya/.rvm/rubies/ruby-3.1.2/lib/ruby/3.1.0 -r ./siteconf20220511-9107-rn48hb.rb extconf.rb
+creating Makefile
+
+current directory: /Users/ajinkya/github-repos/thehimalayanleo.github.io/vendor/bundle/ruby/3.1.0/gems/posix-spawn-0.3.15/ext
+make DESTDIR\= clean
+
+current directory: /Users/ajinkya/github-repos/thehimalayanleo.github.io/vendor/bundle/ruby/3.1.0/gems/posix-spawn-0.3.15/ext
+make DESTDIR\=
+compiling posix-spawn.c
+posix-spawn.c:226:27: warning: incompatible function pointer types passing 'int (VALUE, VALUE, posix_spawn_file_actions_t *)' (aka 'int (unsigned long, unsigned long, void **)') to parameter of type 'int (*)(VALUE, VALUE, VALUE)' (aka 'int (*)(unsigned long, unsigned long, unsigned long)') [-Wincompatible-function-pointer-types]
+        rb_hash_foreach(options, posixspawn_file_actions_operations_iter, (VALUE)fops);
+                                 ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+/Users/ajinkya/.rvm/rubies/ruby-3.1.2/include/ruby-3.1.0/ruby/internal/intern/hash.h:83:40: note: passing argument to parameter 'func' here
+void rb_hash_foreach(VALUE hash, int (*func)(VALUE key, VALUE val, VALUE arg), VALUE arg);
+                                       ^
+1 warning generated.
+linking shared-object posix_spawn_ext.bundle
+
+current directory: /Users/ajinkya/github-repos/thehimalayanleo.github.io/vendor/bundle/ruby/3.1.0/gems/posix-spawn-0.3.15/ext
+make DESTDIR\= install
+/opt/homebrew/opt/coreutils/bin/ginstall -c -m 0755 posix_spawn_ext.bundle ./.gem.20220511-9107-wtef4v

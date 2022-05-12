@@ -1,0 +1,31 @@
+current directory: /Users/ajinkya/github-repos/thehimalayanleo.github.io/vendor/bundle/ruby/3.1.0/gems/eventmachine-1.0.0/ext
+/Users/ajinkya/.rvm/rubies/ruby-3.1.2/bin/ruby -I /Users/ajinkya/.rvm/rubies/ruby-3.1.2/lib/ruby/3.1.0 -r ./siteconf20220511-24584-c90nkx.rb extconf.rb
+checking for -lssl... yes
+checking for -lcrypto... yes
+checking for openssl/ssl.h... yes
+checking for openssl/err.h... yes
+checking for rb_trap_immediate in ruby.h,rubysig.h... no
+checking for rb_thread_blocking_region()... no
+checking for inotify_init() in sys/inotify.h... no
+checking for __NR_inotify_init in sys/syscall.h... no
+checking for writev() in sys/uio.h... yes
+checking for rb_thread_check_ints()... yes
+checking for rb_time_new()... yes
+checking for sys/event.h... yes
+checking for sys/queue.h... yes
+creating Makefile
+
+current directory: /Users/ajinkya/github-repos/thehimalayanleo.github.io/vendor/bundle/ruby/3.1.0/gems/eventmachine-1.0.0/ext
+make DESTDIR\= clean
+
+current directory: /Users/ajinkya/github-repos/thehimalayanleo.github.io/vendor/bundle/ruby/3.1.0/gems/eventmachine-1.0.0/ext
+make DESTDIR\=
+compiling binder.cpp
+In file included from binder.cpp:20:
+./project.h:107:10: fatal error: 'openssl/ssl.h' file not found
+#include <openssl/ssl.h>
+         ^~~~~~~~~~~~~~~
+1 error generated.
+make: *** [binder.o] Error 1
+
+make failed, exit code 2
