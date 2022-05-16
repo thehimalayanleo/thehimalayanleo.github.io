@@ -8,6 +8,8 @@ Please find the list of my publications under [the research page](/research/) an
 
 ## Updates: ##
 
+* May 2022: Excited to be back at Meta for a summer internship!
+
 * May 2022: Our paper ['Private Hypothesis Testing for Social Sciences'](https://arxiv.org/abs/2205.05522) is now available on Arxiv..
 
 * Mar 2022: I launched the 101 Days of NLP a popular way of entering a new field. Over the next few months I will be studying NLP in every form that I can. You can follow along on the [*curious page*](/curious/) or on my new Twitter Account [101 Days of NLP](https://twitter.com/101DaysOfNLP). All release code will be a 100% open-source and reusable.
