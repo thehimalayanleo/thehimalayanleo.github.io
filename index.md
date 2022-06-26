@@ -8,9 +8,14 @@ Please find the list of my publications under [the research page](/research/) an
 
 ## Updates: ##
 
+
+* June 2022: Excited to be a part of the <em>[Cohere for AI Initiative](https://cohere.for.ai/)</em> led by Sara Hooker!
+
+* June 2022: Our papers 'Private Hypothesis Testing for Social Sciences' and 'PowerGraph: Using neural networks and principal components to multivariate statistical power trade-offs' have been accepted (poster and talk) to the ICML workshops of <em>[Theory of Differential Privacy](https://tpdp.journalprivacyconfidentiality.org/2022/)</em> and <em>[AI for Science](http://www.ai4science.net/icml22/)</em> held alongside ICML 2022 in Baltimore, USA. 
+
 * May 2022: Excited to be back at Meta for a summer internship!
 
-* May 2022: Our paper ['Private Hypothesis Testing for Social Sciences'](https://arxiv.org/abs/2205.05522) is now available on Arxiv..
+* May 2022: Our paper ['Private Hypothesis Testing for Social Sciences'](https://arxiv.org/abs/2205.05522) is now available on Arxiv.
 
 * Mar 2022: I launched the 101 Days of NLP a popular way of entering a new field. Over the next few months I will be studying NLP in every form that I can. You can follow along on the [*curious page*](/curious/) or on my new Twitter Account [101 Days of NLP](https://twitter.com/101DaysOfNLP). All release code will be a 100% open-source and reusable.
 
