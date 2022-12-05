@@ -2,12 +2,15 @@
 layout: home
 ---
 
-Hello! I am Ajinkya Mulay, a <del>second</del> <del>third</del> fourth year PhD student at Purdue University. I am pursuing my Ph.D. under the guidance of Prof. Xiaojun Lin in the Electrical and Computer Engineering Department. My primary research area is designing algorithms in Privacy-Preserving Machine Learning.
+Hello! I am Ajinkya Mulay, a <del>fourth</del> Fifth year PhD student at Purdue University. I am pursuing my Ph.D. under the guidance of Prof. Xiaojun Lin in the Electrical and Computer Engineering Department. My primary research area is designing algorithms in Privacy-Preserving Machine Learning.
 
 Please find the list of my publications under [the research page](/research/) and my CV under [the CV page](/cv/). If you're curious about my other software projects check out the [*curious page*](/curious/).
 
 ## Updates: ##
 
+* November 2022: Time for some open-source. Started contributing to Hugging Face's Gradio and Diffusers libraries. Working with The Anvil (at Purdue) to generate team-matching algorithms using Natural Language algorithms. Demo coming soon!
+
+* August 2022: Completed my internship at Meta working on Federated Semi-Supervised Learning (vision) algorithms.
 
 * June 2022: Excited to be a part of the <em>[Cohere for AI Initiative](https://cohere.for.ai/)</em> led by Sara Hooker!
 
