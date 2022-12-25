@@ -1,4 +1,3 @@
-
 This is an ever-updating list of tools that I am currently using or experimenting with. Almost all of them are free or open-source. None of these links are affiliate-links.
 
 - **Obsidian:** Alternatives are LogSeq and RemNote. Obsidian is very cool with a canvas and connected notes. Consider paying for their in-built sync which is way better than iCloud sync (and even has an academic discount!. [Link](https://obsidian.md/).
