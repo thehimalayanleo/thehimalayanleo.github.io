@@ -8,6 +8,8 @@ Please find the list of my publications under [the research page](/research/) an
 
 ## Updates: ##
 
+* December 2022: Updated blog with most recommended workflow tools.
+
 * November 2022: Time for some open-source. Started contributing to Hugging Face's Gradio and Diffusers libraries. Working with The Anvil (at Purdue) to generate team-matching algorithms using Natural Language algorithms. Demo coming soon!
 
 * August 2022: Completed my internship at Meta working on Federated Semi-Supervised Learning (vision) algorithms.
