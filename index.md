@@ -2,11 +2,13 @@
 layout: home
 ---
 
-Hello! I am Ajinkya Mulay, a <del>fourth</del> Fifth year PhD student at Purdue University. I am pursuing my Ph.D. under the guidance of Prof. Xiaojun Lin in the Electrical and Computer Engineering Department. My primary research area is designing algorithms in Privacy-Preserving Machine Learning. Some of my notable research experiences have been at Meta and the University of Tokyo.
+Hello! I am Ajinkya Mulay, a <del>fourth</del> Fifth year PhD student at Purdue University. I am pursuing my Ph.D. under the guidance of Prof. Xiaojun Lin in the Electrical and Computer Engineering Department. My primary research area is designing algorithms in Privacy-Preserving Machine Learning. Some of my notable research experiences have been at Facebook (Meta) and the University of Tokyo.
 
 Please find the list of my publications under [the research page](/research/) and my CV under [the CV page](/cv/). If you're curious about my other software projects check out the [*curious page*](/curious/).
 
 ## Updates: ##
+
+* January 2023: Accepted into the OpenMined Padawan Open Source program! Working with [Ishan Mishra](https://www.linkedin.com/in/ishanmishra0/) (Engineering Tech Lead) and [Ionesio](https://www.linkedin.com/in/ionesio-junior/) (Team Lead) for integrating into the core open-source team of [PySyft](https://github.com/OpenMined/PySyft). PySyft is a data science library that enables machine learning without transferring data from the client.
 
 * December 2022: Our recent pre-print on optimal client sampling for differentially private federated networks (<em>LOCKS: User Differentially Private and Federated Optimal Client Sampling</em>)  is now available on [Arxiv](https://arxiv.org/abs/2212.13071).
 
