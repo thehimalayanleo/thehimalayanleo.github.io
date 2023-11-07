@@ -2,11 +2,15 @@
 layout: home
 ---
 
-Hello! I am Ajinkya Mulay, a <del>fourth</del> Fifth year PhD student at Purdue University. I am pursuing my Ph.D. under the guidance of Prof. Xiaojun Lin in the Electrical and Computer Engineering Department. My primary research area is designing algorithms in Privacy-Preserving Machine Learning. Some of my notable research experiences have been at Facebook (Meta) and the University of Tokyo.
+Hello! I am Ajinkya Mulay, a sixth-year PhD student at Purdue University. I am pursuing my Ph.D. under the guidance of Prof. Xiaojun Lin in the Electrical and Computer Engineering Department. My Ph.D. research focuses on developing theoretical results for exact basis recovery in the context of Differential Privacy and Federated Learning for sparse models in the under-determined domain. My other research work spans the fields of Computational Social Sciences, Adversarial Robustness, and their relation to privacy. Some of my notable research/industry experiences have been at Facebook (Meta) and the University of Tokyo.
 
-Please find the list of my publications under [the research page](/research/) and my CV under [the CV page](/cv/). If you're curious about my other software projects check out the [*curious page*](/curious/).
+Please find the list of my publications under [the research page](/research/) and my CV under [the CV page](/cv/). If you're curious about my other software projects check out the [*curious page*](/curious/) <em>(inactive until early next year)</em>.
 
 ## Updates: ##
+
+* November 2023: Passed my PhD preliminary exam! Onto the final stretch!
+
+* May 2023: Started working as a Graduate Research Assistant for Prof. Xiaojun Lin. We are continuing to focus on developing theoretical results that guarantee exact basis recovery under privacy for sparse models in the under-determined domain. 
 
 * January 2023: Accepted into the OpenMined Padawan Open Source program! Working with [Ishan Mishra](https://www.linkedin.com/in/ishanmishra0/) (Engineering Tech Lead) and [Ionesio](https://www.linkedin.com/in/ionesio-junior/) (Team Lead) for integrating into the core open-source team of [PySyft](https://github.com/OpenMined/PySyft). PySyft is a data science library that enables machine learning without transferring data from the client.
 
@@ -14,7 +18,7 @@ Please find the list of my publications under [the research page](/research/) an
 
 * December 2022: Updated blog with most recommended workflow tools.
 
-* November 2022: Time for some open-source. Started contributing to Hugging Face's Gradio and Diffusers libraries. Working with The Anvil (at Purdue) to generate team-matching algorithms using Natural Language algorithms. Demo coming soon!
+* November 2022: Time for some open-source. Started contributing to Hugging Face's Gradio and Diffusers libraries. Working with The Anvil (at Purdue) to generate team-matching algorithms using Natural Language algorithms. 
 
 * August 2022: Completed my internship at Meta working on Federated Semi-Supervised Learning (vision) algorithms.
 
