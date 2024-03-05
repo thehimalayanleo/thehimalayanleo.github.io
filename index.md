@@ -8,7 +8,7 @@ Please find the list of my publications under [the research page](/research/) an
 
 ## Updates: ##
 
-* March 2024: We recently added preprint on sparse basis recovery guarantees in the Differential Privacy-Federated Learning (DP-FL) domain. We demonstrate that even with few samples (n), but where the data dimensions (p) are high (i.e. p >> n), we can recover the exact sparse model with high probability. This is the first theoretical work that proves such guarantees with limited samples under the DP-FL setting. Theory and experiments accompany in the [pre-print](https://arxiv.org/abs/2402.19016).
+* March 2024: We recently added a preprint on sparse basis recovery guarantees in the Differential Privacy-Federated Learning (DP-FL) domain. We demonstrate that even with few samples (n), but where the data dimensions (p) are high (i.e. p >> n), we can recover the exact sparse model with high probability. This is the first theoretical work that proves such guarantees with limited samples under the DP-FL setting. Theory and experiments accompany in the [pre-print](https://arxiv.org/abs/2402.19016).
 
 * February 2024: Joined Meta (Facebook) as a Research Scientist. 
 
