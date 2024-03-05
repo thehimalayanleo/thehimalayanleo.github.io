@@ -2,11 +2,15 @@
 layout: home
 ---
 
-Hello! I am Ajinkya Mulay, a sixth-year PhD student at Purdue University. I am pursuing my Ph.D. under the guidance of Prof. Xiaojun Lin in the Electrical and Computer Engineering Department. My Ph.D. research focuses on developing theoretical results for exact basis recovery in the context of Differential Privacy and Federated Learning for sparse models in the under-determined domain. My other research work spans the fields of Computational Social Sciences, Adversarial Robustness, and their relation to privacy. Some of my notable research/industry experiences have been at Facebook (Meta) and the University of Tokyo.
+Hello! I am Ajinkya Mulay, a sixth-year PhD student at Purdue University. I am pursuing my Ph.D. in the Electrical and Computer Engineering Department under the guidance of Prof. Xiaojun Lin. My Ph.D. research focuses on developing theoretical results for exact basis recovery in the context of Differential Privacy and Federated Learning for sparse models in the under-determined domain. My other research work spans the fields of Computational Social Sciences, Adversarial Robustness, and their relation to privacy. Some of my notable research/industry experiences have been at Facebook (Meta) and the University of Tokyo.
 
-Please find the list of my publications under [the research page](/research/) and my CV under [the CV page](/cv/). If you're curious about my other software projects check out the [*curious page*](/curious/) <em>(inactive until early next year)</em>.
+Please find the list of my publications under [the research page](/research/) and my CV under [the CV page](/cv/). If you're curious about my other software projects, check out the [*curious page*](/curious/) <em>(inactive until early next year)</em>.
 
 ## Updates: ##
+
+* March 2024: We recently added preprint on sparse basis recovery guarantees in the Differential Privacy-Federated Learning (DP-FL) domain. We demonstrate that even with few samples (n), but where the data dimensions (p) are high (i.e. p >> n), we can recover the exact sparse model with high probability. This is the first theoretical work that proves such guarantees with limited samples under the DP-FL setting. Theory and experiments accompany in the [pre-print](https://arxiv.org/abs/2402.19016).
+
+* February 2024: Joined Meta (Facebook) as a Research Scientist. 
 
 * November 2023: Passed my PhD preliminary exam! Onto the final stretch!
 
