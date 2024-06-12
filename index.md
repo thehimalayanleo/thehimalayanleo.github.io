@@ -2,13 +2,19 @@
 layout: home
 ---
 
-Hello! I am Ajinkya Mulay, a sixth-year PhD student at Purdue University. I am pursuing my Ph.D. in the Electrical and Computer Engineering Department under the guidance of Prof. Xiaojun Lin. My Ph.D. research focuses on developing theoretical results for exact basis recovery in the context of Differential Privacy and Federated Learning for sparse models in the under-determined domain. My other research work spans the fields of Computational Social Sciences, Adversarial Robustness, and their relation to privacy. Some of my notable research/industry experiences have been at Facebook (Meta) and the University of Tokyo.
+
+Hello! I am Ajinkya Mulay, a Research Scientist at Meta. I recently defended my Ph.D. in the Electrical and Computer Engineering Department at Purdue University under the guidance of Prof. Xiaojun Lin. My Ph.D. research focuses on developing theoretical results for exact basis recovery in the context of Differential Privacy and Federated Learning for sparse models in the under-determined domain. My other research work spans the fields of Computational Social Sciences, Adversarial Robustness, and their relation to privacy. Some of my notable research/industry experiences have been at Facebook (Meta) and the University of Tokyo.
 
 Please find the list of my publications under [the research page](/research/) and my CV under [the CV page](/cv/). If you're curious about my other software projects, check out the [*curious page*](/curious/) <em>(inactive until early next year)</em>.
 
 ## Updates: ##
 
-* March 2024: We recently added a preprint on sparse basis recovery guarantees in the Differential Privacy-Federated Learning (DP-FL) domain. We demonstrate that even with few samples (n), but where the data dimensions (p) are high (i.e. p >> n), we can recover the exact sparse model with high probability. This is the first theoretical work that proves such guarantees with limited samples under the DP-FL setting. Theory and experiments accompany in the [pre-print](https://arxiv.org/abs/2402.19016).
+* June 2024: I officially defended my PhD on the topic of “Differentially Private Federated Learning Algorithms for Sparse Basis Recovery.”
+
+* June 2024: Our manuscript "SPriFed-OMP: A Differentially Private Federated Learning
+Algorithm for Sparse Basis Recovery” is accepted for publication in the Transactions of Machine Learning Research (TMLR) journal.
+
+* March 2024: We recently added a preprint on sparse basis recovery guarantees in the Differential Privacy-Federated Learning (DP-FL) domain. We demonstrate that even with a few samples (n), where the data dimensions (p) are high (i.e. p >> n), we can recover the exact sparse model with high probability. This is the first theoretical work that proves such guarantees with limited samples under the DP-FL setting. Theory and experiments accompany in the [pre-print](https://arxiv.org/abs/2402.19016).
 
 * February 2024: Joined Meta (Facebook) as a Research Scientist. 
 
@@ -42,7 +48,7 @@ Please find the list of my publications under [the research page](/research/) an
 
 * Jan 2022: We released a preprint of our recent work on efficiently graphing multivariate <em>statistical</em> power manifolds with supervised learning techniques. Manuscript now available at [PowerGraph: Using neural networks and principal components to multivariate statistical power trade-offs](https://arxiv.org/abs/2201.00719).
 
-* Nov 2021: We discuss recent progress in graphing multivariate <em>statistical</em> power manifolds with novel Machine Learning at the [MCP Colloquium](https://www.purdue.edu/hhs/psy/colloquia/index.html) at Purdue University. Work done with the SuperPower group. Slides and paper incoming soon.
+* Nov 2021: We discuss recent progress in graphing multivariate <em>statistical</em> power manifolds with novel Machine Learning at the [MCP Colloquium](https://www.purdue.edu/hhs/psy/colloquia/index.html) at Purdue University. Work done with the SuperPower group. Slides and paper are coming soon.
 
 * June 2021: Our article <em>[Towards Quantifying the Carbon Emissions of Differentially Private Machine Learning](https://arxiv.org/abs/2107.06946)</em> was accepted at the ICML Workshop on Socially Responsible Machine Learning. 
 
@@ -54,7 +60,7 @@ Please find the list of my publications under [the research page](/research/) an
 
 * Jan 2021: Promoted to Machine Learning Team Lead in the SuperPower research group.
 
-* Nov 2020: Our article <em>FedPerf: A Practitioners' Guide to Performance of Federated Learning Algorithms</em>, got accepted to NIPS 2020 Preregistration Workshop. We were amongst the 8 papers invited for a contributed talk for the workshop. Further open-source updates coming soon!
+* Nov 2020: Our article <em>FedPerf: A Practitioners' Guide to Performance of Federated Learning Algorithms</em>, got accepted to NeurIPS 2020 Preregistration Workshop. We were among the 8 papers invited for a contributed talk for the workshop. Further open-source updates coming soon!
 
 * Oct 2020: Submitted research article <em>FedPerf: A Practitioners' Guide to Performance of Federated Learning Algorithms</em> to NIPS 2020 Preregistration Workshop.
 
@@ -64,4 +70,4 @@ Please find the list of my publications under [the research page](/research/) an
 
 * Feb 2020: Published my first blog. 
 
-* Aug 2019: Started the website. My research paper <em>DFC: Dynamic UL-DL Frame Configuration Mechanism for Improving Channel Access in eLAA</em>, (at NeWS Lab at IIT Hyderabad), got published in IEEE Networking Letters. 
+* Aug 2019: Started the website. My research paper <em>DFC: Dynamic UL-DL Frame Configuration Mechanism for Improving Channel Access in eLAA</em>, (at NeWS Lab at IIT Hyderabad), was published in IEEE Networking Letters. 
