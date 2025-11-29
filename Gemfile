@@ -39,7 +39,7 @@ gem 'jekyll-seo-tag'
 
 gem "webrick", "~> 1.7"
 
-gem "rdiscount", "= 2.2.0.2"
+# gem "rdiscount", "= 2.2.0.2"  # Commented out - not needed since we use kramdown in _config.yml
 
 # gem "em-websocket", "= 0.5.0"
 # gem "eventmachine", "~> 0.12.9"

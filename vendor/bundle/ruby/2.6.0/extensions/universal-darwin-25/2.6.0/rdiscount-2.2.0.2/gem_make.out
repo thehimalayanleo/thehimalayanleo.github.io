@@ -1,0 +1,253 @@
+current directory: /Users/ajinkya/github-repos/thehimalayanleo.github.io/vendor/bundle/ruby/2.6.0/gems/rdiscount-2.2.0.2/ext
+/System/Library/Frameworks/Ruby.framework/Versions/2.6/usr/bin/ruby -I /Library/Ruby/Site/2.6.0 -r ./siteconf20251129-73647-ijvyjk.rb extconf.rb --with-cflags\=-Wno-errorgem install rdiscount -- --with-cflags\=-Wno-error\=implicit-function-declaration\=implicit-function-declaration
+/System/Library/Frameworks/Ruby.framework/Versions/2.6/usr/lib/ruby/2.6.0/universal-darwin25/rbconfig.rb:21: warning: Insecure world writable dir /Users/ajinkya/.local in PATH, mode 040777
+checking for random()... yes
+checking for srandom()... yes
+checking for rand()... yes
+checking for srand()... yes
+checking size of unsigned long... 8
+checking size of unsigned int... 4
+checking size of unsigned int... 4
+checking size of unsigned short... 2
+creating Makefile
+
+current directory: /Users/ajinkya/github-repos/thehimalayanleo.github.io/vendor/bundle/ruby/2.6.0/gems/rdiscount-2.2.0.2/ext
+make DESTDIR\= clean
+
+current directory: /Users/ajinkya/github-repos/thehimalayanleo.github.io/vendor/bundle/ruby/2.6.0/gems/rdiscount-2.2.0.2/ext
+make DESTDIR\=
+compiling Csio.c
+warning: unknown warning option '-Werror=implicit-function-declaration=implicit-function-declaration'; did you mean '-Werror=implicit-function-declaration'? [-Wunknown-warning-option]
+1 warning generated.
+compiling amalloc.c
+warning: unknown warning option '-Werror=implicit-function-declaration=implicit-function-declaration'; did you mean '-Werror=implicit-function-declaration'? [-Wunknown-warning-option]
+amalloc.c:39:14: warning: using the result of an assignment as a condition without parentheses [-Wparentheses]
+   39 |     if ( ret = calloc(count + sizeof(struct alist) + sizeof(int), size) ) {
+      |          ~~~~^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+amalloc.c:39:14: note: place parentheses around the assignment to silence this warning
+   39 |     if ( ret = calloc(count + sizeof(struct alist) + sizeof(int), size) ) {
+      |              ^
+      |          (                                                             )
+amalloc.c:39:14: note: use '==' to turn this assignment into an equality comparison
+   39 |     if ( ret = calloc(count + sizeof(struct alist) + sizeof(int), size) ) {
+      |              ^
+      |              ==
+2 warnings generated.
+compiling basename.c
+warning: unknown warning option '-Werror=implicit-function-declaration=implicit-function-declaration'; did you mean '-Werror=implicit-function-declaration'? [-Wunknown-warning-option]
+1 warning generated.
+compiling css.c
+warning: unknown warning option '-Werror=implicit-function-declaration=implicit-function-declaration'; did you mean '-Werror=implicit-function-declaration'? [-Wunknown-warning-option]
+1 warning generated.
+compiling docheader.c
+warning: unknown warning option '-Werror=implicit-function-declaration=implicit-function-declaration'; did you mean '-Werror=implicit-function-declaration'? [-Wunknown-warning-option]
+1 warning generated.
+compiling dumptree.c
+warning: unknown warning option '-Werror=implicit-function-declaration=implicit-function-declaration'; did you mean '-Werror=implicit-function-declaration'? [-Wunknown-warning-option]
+1 warning generated.
+compiling emmatch.c
+warning: unknown warning option '-Werror=implicit-function-declaration=implicit-function-declaration'; did you mean '-Werror=implicit-function-declaration'? [-Wunknown-warning-option]
+emmatch.c:113:20: warning: using the result of an assignment as a condition without parentheses [-Wparentheses]
+  113 |     case 2: if ( e = empair(f,first,last,match=2) )
+      |                  ~~^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+emmatch.c:113:20: note: place parentheses around the assignment to silence this warning
+  113 |     case 2: if ( e = empair(f,first,last,match=2) )
+      |                    ^
+      |                  (                               )
+emmatch.c:113:20: note: use '==' to turn this assignment into an equality comparison
+  113 |     case 2: if ( e = empair(f,first,last,match=2) )
+      |                    ^
+      |                    ==
+2 warnings generated.
+compiling flags.c
+warning: unknown warning option '-Werror=implicit-function-declaration=implicit-function-declaration'; did you mean '-Werror=implicit-function-declaration'? [-Wunknown-warning-option]
+flags.c:55:11: warning: using the result of an assignment as a condition without parentheses [-Wparentheses]
+   55 |         if ( not = (*name == '!') ) {
+      |              ~~~~^~~~~~~~~~~~~~~~
+flags.c:55:11: note: place parentheses around the assignment to silence this warning
+   55 |         if ( not = (*name == '!') ) {
+      |                  ^
+      |              (                   )
+flags.c:55:11: note: use '==' to turn this assignment into an equality comparison
+   55 |         if ( not = (*name == '!') ) {
+      |                  ^
+      |                  ==
+2 warnings generated.
+compiling generate.c
+warning: unknown warning option '-Werror=implicit-function-declaration=implicit-function-declaration'; did you mean '-Werror=implicit-function-declaration'? [-Wunknown-warning-option]
+generate.c:612:1: warning: a function definition without a prototype is deprecated in all versions of C and is not supported in C23 [-Wdeprecated-non-prototype]
+  612 | p_or_nothing(p)
+      | ^
+generate.c:650:19: warning: using the result of an assignment as a condition without parentheses [-Wparentheses]
+  650 |     else if ( tag = pseudo(ref->link) ) {
+      |               ~~~~^~~~~~~~~~~~~~~~~~~
+generate.c:650:19: note: place parentheses around the assignment to silence this warning
+  650 |     else if ( tag = pseudo(ref->link) ) {
+      |                   ^
+      |               (                      )
+generate.c:650:19: note: use '==' to turn this assignment into an equality comparison
+  650 |     else if ( tag = pseudo(ref->link) ) {
+      |                   ^
+      |                   ==
+generate.c:744:12: warning: using the result of an assignment as a condition without parentheses [-Wparentheses]
+  744 |                 if ( ref = bsearch(&key, T(f->footnotes->note),
+      |                      ~~~~^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+  745 |                                          S(f->footnotes->note),
+      |                                          ~~~~~~~~~~~~~~~~~~~~~~
+  746 |                                          sizeof key, (stfu)__mkd_footsort) ) {
+      |                                          ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+generate.c:744:12: note: place parentheses around the assignment to silence this warning
+  744 |                 if ( ref = bsearch(&key, T(f->footnotes->note),
+      |                          ^
+      |                      (
+  745 |                                          S(f->footnotes->note),
+  746 |                                          sizeof key, (stfu)__mkd_footsort) ) {
+      |                                                                           )
+generate.c:744:12: note: use '==' to turn this assignment into an equality comparison
+  744 |                 if ( ref = bsearch(&key, T(f->footnotes->note),
+      |                          ^
+      |                          ==
+4 warnings generated.
+compiling github_flavoured.c
+warning: unknown warning option '-Werror=implicit-function-declaration=implicit-function-declaration'; did you mean '-Werror=implicit-function-declaration'? [-Wunknown-warning-option]
+1 warning generated.
+compiling html5.c
+warning: unknown warning option '-Werror=implicit-function-declaration=implicit-function-declaration'; did you mean '-Werror=implicit-function-declaration'? [-Wunknown-warning-option]
+1 warning generated.
+compiling markdown.c
+warning: unknown warning option '-Werror=implicit-function-declaration=implicit-function-declaration'; did you mean '-Werror=implicit-function-declaration'? [-Wunknown-warning-option]
+markdown.c:264:14: warning: using the result of an assignment as a condition without parentheses [-Wparentheses]
+  264 |            if ( end = strstr(T(t->text), "-->") ) {
+      |                 ~~~~^~~~~~~~~~~~~~~~~~~~~~~~~~~
+markdown.c:264:14: note: place parentheses around the assignment to silence this warning
+  264 |            if ( end = strstr(T(t->text), "-->") ) {
+      |                     ^
+      |                 (                              )
+markdown.c:264:14: note: use '==' to turn this assignment into an equality comparison
+  264 |            if ( end = strstr(T(t->text), "-->") ) {
+      |                     ^
+      |                     ==
+markdown.c:315:16: warning: using the result of an assignment as a condition without parentheses [-Wparentheses]
+  315 |                 if ( closing = (c == '/') ) c = flogetc(&f);
+      |                      ~~~~~~~~^~~~~~~~~~~~
+markdown.c:315:16: note: place parentheses around the assignment to silence this warning
+  315 |                 if ( closing = (c == '/') ) c = flogetc(&f);
+      |                              ^
+      |                      (                   )
+markdown.c:315:16: note: use '==' to turn this assignment into an equality comparison
+  315 |                 if ( closing = (c == '/') ) c = flogetc(&f);
+      |                              ^
+      |                              ==
+markdown.c:489:8: warning: using the result of an assignment as a condition without parentheses [-Wparentheses]
+  489 |         if ( x=is_extra_dt(t->next, clip, flags) )
+      |              ~^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+markdown.c:489:8: note: place parentheses around the assignment to silence this warning
+  489 |         if ( x=is_extra_dt(t->next, clip, flags) )
+      |               ^
+      |              (                                  )
+markdown.c:489:8: note: use '==' to turn this assignment into an equality comparison
+  489 |         if ( x=is_extra_dt(t->next, clip, flags) )
+      |               ^
+      |               ==
+markdown.c:502:14: warning: using the result of an assignment as a condition without parentheses [-Wparentheses]
+  502 |     if ( ret = is_discount_dt(t,clip,flags) )
+      |          ~~~~^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+markdown.c:502:14: note: place parentheses around the assignment to silence this warning
+  502 |     if ( ret = is_discount_dt(t,clip,flags) )
+      |              ^
+      |          (                                 )
+markdown.c:502:14: note: use '==' to turn this assignment into an equality comparison
+  502 |     if ( ret = is_discount_dt(t,clip,flags) )
+      |              ^
+      |              ==
+markdown.c:830:16: warning: using the result of an assignment as a condition without parentheses [-Wparentheses]
+  830 |         if ( p->ident = malloc(4+strlen(prefix)+S(q->text)) )
+      |              ~~~~~~~~~^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+markdown.c:830:16: note: place parentheses around the assignment to silence this warning
+  830 |         if ( p->ident = malloc(4+strlen(prefix)+S(q->text)) )
+      |                       ^
+      |              (                                             )
+markdown.c:830:16: note: use '==' to turn this assignment into an equality comparison
+  830 |         if ( p->ident = malloc(4+strlen(prefix)+S(q->text)) )
+      |                       ^
+      |                       ==
+markdown.c:918:12: warning: using the result of an assignment as a condition without parentheses [-Wparentheses]
+  918 |         if ( para = (text != q->next) )
+      |              ~~~~~^~~~~~~~~~~~~~~~~~~
+markdown.c:918:12: note: place parentheses around the assignment to silence this warning
+  918 |         if ( para = (text != q->next) )
+      |                   ^
+      |              (                       )
+markdown.c:918:12: note: use '==' to turn this assignment into an equality comparison
+  918 |         if ( para = (text != q->next) )
+      |                   ^
+      |                   ==
+markdown.c:941:12: warning: using the result of an assignment as a condition without parentheses [-Wparentheses]
+  941 |         if ( para = (q != text) ) {
+      |              ~~~~~^~~~~~~~~~~~~
+markdown.c:941:12: note: place parentheses around the assignment to silence this warning
+  941 |         if ( para = (q != text) ) {
+      |                   ^
+      |              (                 )
+markdown.c:941:12: note: use '==' to turn this assignment into an equality comparison
+  941 |         if ( para = (q != text) ) {
+      |                   ^
+      |                   ==
+markdown.c:981:12: warning: using the result of an assignment as a condition without parentheses [-Wparentheses]
+  981 |         if ( para = (q != text) ) {
+      |              ~~~~~^~~~~~~~~~~~~
+markdown.c:981:12: note: place parentheses around the assignment to silence this warning
+  981 |         if ( para = (q != text) ) {
+      |                   ^
+      |              (                 )
+markdown.c:981:12: note: use '==' to turn this assignment into an equality comparison
+  981 |         if ( para = (q != text) ) {
+      |                   ^
+      |                   ==
+markdown.c:1272:23: warning: using the result of an assignment as a condition without parentheses [-Wparentheses]
+ 1272 |         else if ( list_class = islist(ptr, &indent, f->flags, &list_type) ) {
+      |                   ~~~~~~~~~~~^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+markdown.c:1272:23: note: place parentheses around the assignment to silence this warning
+ 1272 |         else if ( list_class = islist(ptr, &indent, f->flags, &list_type) ) {
+      |                              ^
+      |                   (                                                      )
+markdown.c:1272:23: note: use '==' to turn this assignment into an equality comparison
+ 1272 |         else if ( list_class = islist(ptr, &indent, f->flags, &list_type) ) {
+      |                              ^
+      |                              ==
+10 warnings generated.
+compiling mkdio.c
+warning: unknown warning option '-Werror=implicit-function-declaration=implicit-function-declaration'; did you mean '-Werror=implicit-function-declaration'? [-Wunknown-warning-option]
+mkdio.c:28:16: warning: using the result of an assignment as a condition without parentheses [-Wparentheses]
+   28 |         if ( ret->ctx = calloc(sizeof(MMIOT), 1) ) {
+      |              ~~~~~~~~~^~~~~~~~~~~~~~~~~~~~~~~~~~
+mkdio.c:28:16: note: place parentheses around the assignment to silence this warning
+   28 |         if ( ret->ctx = calloc(sizeof(MMIOT), 1) ) {
+      |                       ^
+      |              (                                  )
+mkdio.c:28:16: note: use '==' to turn this assignment into an equality comparison
+   28 |         if ( ret->ctx = calloc(sizeof(MMIOT), 1) ) {
+      |                       ^
+      |                       ==
+mkdio.c:274:14: warning: using the result of an assignment as a condition without parentheses [-Wparentheses]
+  274 |     if ( len = S(f.out) ) {
+      |          ~~~~^~~~~~~~~~
+mkdio.c:274:14: note: place parentheses around the assignment to silence this warning
+  274 |     if ( len = S(f.out) ) {
+      |              ^
+      |          (             )
+mkdio.c:274:14: note: use '==' to turn this assignment into an equality comparison
+  274 |     if ( len = S(f.out) ) {
+      |              ^
+      |              ==
+3 warnings generated.
+compiling mktags.c
+warning: unknown warning option '-Werror=implicit-function-declaration=implicit-function-declaration'; did you mean '-Werror=implicit-function-declaration'? [-Wunknown-warning-option]
+mktags.c:44:1: error: type specifier missing, defaults to 'int'; ISO C99 and later do not support implicit int [-Wimplicit-int]
+   44 | main()
+      | ^
+      | int
+1 warning and 1 error generated.
+make: *** [mktags.o] Error 1
+
+make failed, exit code 2

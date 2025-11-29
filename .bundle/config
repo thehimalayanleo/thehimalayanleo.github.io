@@ -2,3 +2,4 @@
 BUNDLE_PATH: "vendor/bundle"
 BUNDLE_BUILD__PUMA: "--with-cflags=-Wno-errorgem install rdiscount -- --with-cflags=-Wno-error=implicit-function-declaration=implicit-function-declaration"
 BUNDLE_BUILD__RDISCOUNT: "--with-cflags=-Wno-errorgem install rdiscount -- --with-cflags=-Wno-error=implicit-function-declaration=implicit-function-declaration"
+BUNDLE_BUILD__FFI: "--with-ldflags=-L/opt/homebrew/opt/libffi/lib --with-cppflags=-I/opt/homebrew/opt/libffi/include"
