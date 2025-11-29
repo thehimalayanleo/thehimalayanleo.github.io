@@ -44,7 +44,7 @@ Algorithm for Sparse Basis Recovery” is accepted for publication in the Transa
 
 * May 2022: Our paper ['Private Hypothesis Testing for Social Sciences'](https://arxiv.org/abs/2205.05522) is now available on Arxiv.
 
-* Mar 2022: I launched the 101 Days of NLP a popular way of entering a new field. Over the next few months I will be studying NLP in every form that I can. You can follow along on the [*curious page*](/curious/) or on my new Twitter Account [101 Days of NLP](https://twitter.com/101DaysOfNLP). All release code will be a 100% open-source and reusable.
+* Mar 2022: I launched the 101 Days of NLP a popular way of entering a new field. Over the next few months I will be studying NLP in every form that I can. You can follow along on the [*curious page*](https://www.thecuriositypage.com/). All released code will be a 100% open-source and reusable.
 
 * Mar 2022: We presented our preliminary work, 'How to promote open science under privacy,' an article at the confluence of Social Sciences and Privacy at the Psychological Sciences Department at Purdue University. We are working on a tool in R/Python to enable easy sharing of datasets under privacy guarantees.
 
