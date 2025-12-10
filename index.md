@@ -9,6 +9,8 @@ Please find the list of my publications under [the research page](/research/) an
 
 ## Updates: ##
 
+* December 2025: We won the XAI Hackathon ([demo](https://x.com/xai/status/1997875238449917980?s=20)) under the Grokipedia track for real-time updates to Grokipedia from latest X.com posts.
+
 * Nov 2025: My personal interests rely on developing small efficient frontier models that can capcture human reasoning capabilities with parameters that can easily run on most home hardware. Most of my topics will focus on such architectures.
 
 * Nov 2025: Started studying AI safety deeply, mainly the Technical AI safety course at BlueDot Impact. Happy to chat more.
