@@ -3,11 +3,13 @@ layout: home
 ---
 
 
-Hello! I am Ajinkya Mulay, a Research Scientist at Meta. I defended my Ph.D. in 2024 from the Electrical and Computer Engineering Department at Purdue University under the guidance of Prof. Xiaojun Lin. My Ph.D. research focuses on developing theoretical results for exact basis recovery in the context of Differential Privacy and Federated Learning for sparse models in the under-determined domain. My other research work spans the fields of Computational Social Sciences, Adversarial Robustness, and their relation to privacy. Some of my notable research/industry experiences have been at Facebook (Meta) and the University of Tokyo.
+Hello! I am Ajinkya Kiran Mulay, a Research Scientist at Meta. I defended my Ph.D. in 2024 from the Electrical and Computer Engineering Department at Purdue University under the guidance of Prof. Xiaojun Lin. My Ph.D. research focuses on developing theoretical results for exact basis recovery in the context of Differential Privacy and Federated Learning for sparse models in the under-determined domain. My other research work spans the fields of Computational Social Sciences, Adversarial Robustness, and their relation to privacy. Some of my notable research/industry experiences have been at Facebook (Meta) and the University of Tokyo.
 
-Please find the list of my publications under [the research page](/research/) and my CV under [the CV page](/cv/). If you're curious about my other software projects, check out the [*curious page*](https://www.thecuriositypage.com/).
+Please find the list of my publications under [the research page](/research/) and my CV under [the CV page](/cv/). If you're curious about my other software projects, check out the [*curious page*](https://www.thepursuits.xyz/).
 
 ## Updates: ##
+
+* April 2026: Received third prize in the [Sentient Arena Cohort 0](https://www.sentient.xyz/arena) OfficeQA Leaderboard challenge, building state-of-the-art skills for coding agents to beat OfficeQA, an enterprise-relevant benchmark by Databricks over SEC filing data.
 
 * December 2025: We won the XAI Hackathon ([demo](https://x.com/xai/status/1997875238449917980?s=20)) under the Grokipedia track for real-time updates to Grokipedia from latest X.com posts.
 
@@ -46,7 +48,7 @@ Algorithm for Sparse Basis Recovery” is accepted for publication in the Transa
 
 * May 2022: Our paper ['Private Hypothesis Testing for Social Sciences'](https://arxiv.org/abs/2205.05522) is now available on Arxiv.
 
-* Mar 2022: I launched the 101 Days of NLP a popular way of entering a new field. Over the next few months I will be studying NLP in every form that I can. You can follow along on the [*curious page*](https://www.thecuriositypage.com/). All released code will be a 100% open-source and reusable.
+* Mar 2022: I launched the 101 Days of NLP a popular way of entering a new field. Over the next few months I will be studying NLP in every form that I can. You can follow along on the [*curious page*](https://www.thepursuits.xyz/). All released code will be a 100% open-source and reusable.
 
 * Mar 2022: We presented our preliminary work, 'How to promote open science under privacy,' an article at the confluence of Social Sciences and Privacy at the Psychological Sciences Department at Purdue University. We are working on a tool in R/Python to enable easy sharing of datasets under privacy guarantees.
 

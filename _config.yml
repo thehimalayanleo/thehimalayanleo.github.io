@@ -13,9 +13,9 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Ajinkya K Mulay
-full_name: Ajinkya K Mulay
-email: mulay@purdue.edu
+title: Ajinkya Kiran Mulay
+full_name: Ajinkya Kiran Mulay
+email: ajinkyamulay123@gmail.com
 email2: ajinkyamulay123@gmail.com
 description: A website documenting my research and personal life by the means of blog articles and research articles. # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog
@@ -23,13 +23,18 @@ url: "https://thehimalayanleo.github.io" # the base hostname & protocol for your
 
 show_excerpts: true # set to true to show excerpts on the homepage
 
+header_pages:
+  - CV.md
+  - Projects.md
+  - Research.md
+  - about.md
+  - development.md
+
 minima:
  social_links:
   github: thehimalayanleo
-  twitter: ajinkya_mulay_
-  instagram: ajinkya_mulay_
+  twitter: ajinkya_km
   linkedin: ajinkyamulay
-  facebook: ajinkyamulay28
 
 # Analytics
 google_analytics: UA-146859695-1

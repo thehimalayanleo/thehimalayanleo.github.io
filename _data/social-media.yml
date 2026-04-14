@@ -1,17 +1,12 @@
 email:
-  id: 'mulay@purdue.edu'
+  id: 'ajinkyamulay123@gmail.com'
   href: 'mailto:'
   title: 'Email'
   fa-icon: 'fa-envelope-square'
 
-facebook:
-  id: 'ajinkyamulay28'
-  href: 'https://www.facebook.com/'
-  title: 'Facebook'
-  fa-icon: 'fa-facebook'
 
 twitter:
-  id: 'ajinkya_mulay_'
+  id: 'ajinkya_km'
   href: 'https://www.twitter.com/'
   title: 'Twitter'
   fa-icon: 'fa-twitter'
@@ -22,12 +17,7 @@ github:
   title: 'GitHub'
   fa-icon: 'fa-github'
 
-instagram:
-  id: 'ajinkya_mulay_'
-  href: 'https://instagram.com/'
-  title: 'Instagram'
-  fa-icon: 'fa-instagram'
-  
+
 linkedin:
   id: 'ajinkyamulay'
   href: 'https://linkedin.com/in/'
