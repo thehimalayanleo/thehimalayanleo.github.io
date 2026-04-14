@@ -9,7 +9,7 @@
 {%comment%}
 {{ site.title | escape }}
 {%endcomment%}
-Ajinkya K Mulay</a>
+Ajinkya Kiran Mulay</a>
 
     {%- if page_paths -%}
       <nav class="site-nav">
@@ -29,6 +29,7 @@ Ajinkya K Mulay</a>
             <a class="page-link" href="{{ my_page.url | relative_url }}">{{ my_page.title | escape }}</a>
             {%- endif -%}
           {%- endfor -%}
+          <button class="theme-toggle" id="theme-toggle" aria-label="Toggle theme">Light</button>
         </div>
       </nav>
     {%- endif -%}

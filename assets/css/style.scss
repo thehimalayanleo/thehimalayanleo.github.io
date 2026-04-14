@@ -1,0 +1,126 @@
+---
+---
+
+@import url('https://fonts.googleapis.com/css2?family=EB+Garamond:ital,wght@0,400;0,500;1,400&family=IBM+Plex+Mono:wght@400;500&family=Inter:wght@400;500&display=swap');
+
+@import "minima";
+
+// ── CSS Variables ─────────────────────────────────────────────────────────────
+:root {
+  --bg:        #151515;
+  --bg-alt:    #1e1e1e;
+  --text:      #d4cfca;
+  --text-muted:#7a7672;
+  --accent:    #c9b99a;
+  --border:    #2a2a2a;
+}
+
+body.light-mode {
+  --bg:        #fdf8ed;
+  --bg-alt:    #f5edd8;
+  --text:      #2a2210;
+  --text-muted:#8a7a5a;
+  --accent:    #7a5c2e;
+  --border:    #e8dcc0;
+}
+
+// ── Base ──────────────────────────────────────────────────────────────────────
+body {
+  background-color: var(--bg);
+  color: var(--text);
+  font-family: 'EB Garamond', Georgia, serif;
+  font-size: 1.15rem;
+  line-height: 1.75;
+  transition: background-color 0.2s, color 0.2s;
+}
+
+// ── Header / nav ──────────────────────────────────────────────────────────────
+.site-header {
+  background-color: var(--bg);
+  border-bottom: 1px solid var(--border);
+}
+
+.site-title,
+.site-title:visited {
+  font-family: 'EB Garamond', serif;
+  font-style: italic;
+  font-size: 1.3rem;
+  color: var(--text);
+  letter-spacing: 0.01em;
+}
+
+.site-title:hover { color: var(--accent); text-decoration: none; }
+
+.site-nav .page-link {
+  font-family: 'Inter', sans-serif;
+  font-size: 0.85rem;
+  color: var(--text-muted);
+  letter-spacing: 0.04em;
+}
+
+.site-nav .page-link:hover { color: var(--text); text-decoration: none; }
+
+// ── Theme toggle button ───────────────────────────────────────────────────────
+.theme-toggle {
+  font-family: 'Inter', sans-serif;
+  font-size: 0.8rem;
+  color: var(--text-muted);
+  background: none;
+  border: 1px solid var(--border);
+  border-radius: 20px;
+  padding: 3px 12px;
+  cursor: pointer;
+  vertical-align: middle;
+  margin-left: 1rem;
+  transition: color 0.2s, border-color 0.2s;
+
+  &:hover { color: var(--text); border-color: var(--text-muted); }
+}
+
+// ── Main content ──────────────────────────────────────────────────────────────
+.page-content { background-color: var(--bg); }
+
+h1, h2, h3, h4 {
+  font-family: 'EB Garamond', serif;
+  font-weight: 500;
+  color: var(--text);
+  letter-spacing: -0.01em;
+}
+
+h1 { font-size: 2.2rem; }
+h2 { font-size: 1.5rem; border-bottom: 1px solid var(--border); padding-bottom: 0.25rem; }
+
+a             { color: var(--accent); }
+a:hover       { color: var(--text); }
+a:visited     { color: var(--accent); }
+
+p  { color: var(--text); }
+li { color: var(--text); margin-bottom: 0.4rem; }
+
+// ── Code / monospace ──────────────────────────────────────────────────────────
+code, pre, tt {
+  font-family: 'IBM Plex Mono', monospace;
+  font-size: 0.88rem;
+  background-color: var(--bg-alt);
+  color: var(--text);
+}
+
+// ── Footer ────────────────────────────────────────────────────────────────────
+.site-footer {
+  background-color: var(--bg);
+  border-top: 1px solid var(--border);
+  color: var(--text-muted);
+  font-family: 'IBM Plex Mono', monospace;
+  font-size: 0.8rem;
+}
+
+.footer-heading,
+.site-footer a,
+.site-footer a:visited { color: var(--text-muted); }
+.site-footer a:hover   { color: var(--text); }
+
+// ── Social icons ──────────────────────────────────────────────────────────────
+#social-media a       { color: var(--text-muted); margin-right: 0.6rem; }
+#social-media a:hover { color: var(--accent); }
+
+hr { border-color: var(--border); }

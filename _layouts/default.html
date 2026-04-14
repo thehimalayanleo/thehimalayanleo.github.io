@@ -26,6 +26,21 @@
     <script type="text/x-mathjax-config"> MathJax.Hub.Config({ TeX: { equationNumbers: { autoNumber: "AMS" } } }); </script>
 
     {%- include footer.html -%}
+
+    <script>
+      (function() {
+        var btn = document.getElementById('theme-toggle');
+        var saved = localStorage.getItem('theme');
+        if (saved === 'light') { document.body.classList.add('light-mode'); btn.textContent = 'Dark'; }
+        else { btn.textContent = 'Light'; }
+        btn.addEventListener('click', function() {
+          document.body.classList.toggle('light-mode');
+          var isLight = document.body.classList.contains('light-mode');
+          btn.textContent = isLight ? 'Dark' : 'Light';
+          localStorage.setItem('theme', isLight ? 'light' : 'dark');
+        });
+      })();
+    </script>
     {% include analytics.html %}
 
   </body>
