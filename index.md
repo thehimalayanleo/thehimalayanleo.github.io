@@ -45,7 +45,7 @@ Please find the list of my publications under [the research page](/research/) an
     <div class="tl-item" data-year="2026">
       <div class="tl-marker"></div>
       <div class="tl-card">
-        <span class="tl-date">April 2026 <span class="tl-tag tag-award">award</span></span>
+        <span class="tl-date">April 2026 <span class="tl-tag tag-hackathon">hackathon</span></span>
         <p class="tl-body">Received third prize in the <a href="https://www.sentient.xyz/arena">Sentient Arena Cohort 0</a> OfficeQA Leaderboard challenge, building state-of-the-art skills for coding agents to beat OfficeQA, an enterprise-relevant benchmark by Databricks over SEC filing data.</p>
       </div>
     </div>
@@ -53,7 +53,7 @@ Please find the list of my publications under [the research page](/research/) an
     <div class="tl-item" data-year="2026">
       <div class="tl-marker"></div>
       <div class="tl-card">
-        <span class="tl-date">March 2026 <span class="tl-tag tag-award">award</span></span>
+        <span class="tl-date">March 2026 <span class="tl-tag tag-hackathon">hackathon</span></span>
         <p class="tl-body">Placed 6th at <a href="https://ctf.secure-agent.com/#results">AgentCTF × AgentXploit</a>, organized by the Berkeley RDI Center — a security research competition where participants build AI agents that autonomously identify and exploit real-world CVEs across frameworks like LangChain and AutoGPT. Achieved a full score of 3.55 across the 20-task evaluation set, running exclusively on Claude Haiku.</p>
       </div>
     </div>
@@ -69,7 +69,7 @@ Please find the list of my publications under [the research page](/research/) an
     <div class="tl-item" data-year="2025">
       <div class="tl-marker"></div>
       <div class="tl-card">
-        <span class="tl-date">December 2025 <span class="tl-tag tag-award">award</span></span>
+        <span class="tl-date">December 2025 <span class="tl-tag tag-hackathon">hackathon</span></span>
         <p class="tl-body">We won the XAI Hackathon (<a href="https://x.com/xai/status/1997875238449917980?s=20">demo</a>) under the Grokipedia track for real-time updates to Grokipedia from latest X.com posts.</p>
       </div>
     </div>

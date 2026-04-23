@@ -11,7 +11,7 @@
   --bg-alt:    #1e1e1e;
   --text:      #d4cfca;
   --text-muted:#7a7672;
-  --accent:    #c9b99a;
+  --accent:    #e8821e;
   --border:    #2a2a2a;
 }
 
@@ -20,7 +20,7 @@ body.light-mode {
   --bg-alt:    #e3d8b8;
   --text:      #2a2210;
   --text-muted:#8a7a5a;
-  --accent:    #7a5c2e;
+  --accent:    #c45c08;
   --border:    #cfc0a0;
 }
 
@@ -272,7 +272,7 @@ hr { border-color: var(--border); }
   &.tag-conference { background: rgba(100, 180, 120, 0.14); color: #7ec49a; border: 1px solid rgba(100, 180, 120, 0.25); }
   &.tag-paper      { background: rgba(100, 150, 210, 0.14); color: #80afd4; border: 1px solid rgba(100, 150, 210, 0.25); }
   &.tag-milestone  { background: rgba(201, 185, 154, 0.18); color: var(--accent); border: 1px solid rgba(201, 185, 154, 0.3); }
-  &.tag-award      { background: rgba(220, 180, 80, 0.14);  color: #d4ae5a; border: 1px solid rgba(220, 180, 80, 0.25); }
+  &.tag-hackathon  { background: rgba(220, 180, 80, 0.14);  color: #d4ae5a; border: 1px solid rgba(220, 180, 80, 0.25); }
   &.tag-community  { background: rgba(190, 120, 200, 0.14); color: #c090cc; border: 1px solid rgba(190, 120, 200, 0.25); }
 }
 
@@ -281,7 +281,7 @@ body.light-mode {
     &.tag-conference { background: rgba(40, 140, 80, 0.1);  color: #287050; }
     &.tag-paper      { background: rgba(40, 100, 180, 0.1); color: #2860a0; }
     &.tag-milestone  { background: rgba(120, 90, 40, 0.1);  color: var(--accent); }
-    &.tag-award      { background: rgba(160, 110, 20, 0.1); color: #9a6c10; }
+    &.tag-hackathon  { background: rgba(160, 110, 20, 0.1); color: #9a6c10; }
     &.tag-community  { background: rgba(140, 60, 160, 0.1); color: #8c3ca0; }
   }
 }
