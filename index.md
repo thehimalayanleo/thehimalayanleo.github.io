@@ -3,7 +3,7 @@ layout: home
 ---
 
 
-Hello! I am Ajinkya Kiran Mulay, a Research Scientist at Meta. I defended my Ph.D. in 2024 from the Electrical and Computer Engineering Department at Purdue University under the guidance of Prof. Xiaojun Lin. My Ph.D. research focuses on developing theoretical results for exact basis recovery in the context of Differential Privacy and Federated Learning for sparse models in the under-determined domain. My other research work spans the fields of Computational Social Sciences, Adversarial Robustness, and their relation to privacy. Some of my notable research/industry experiences have been at Facebook (Meta) and the University of Tokyo.
+Hello! I am Ajinkya Kiran Mulay, a Senior Research Scientist at Meta. I defended my Ph.D. in 2024 from the Electrical and Computer Engineering Department at Purdue University under the guidance of Prof. Xiaojun Lin. My Ph.D. research focuses on developing theoretical results for exact basis recovery in the context of Differential Privacy and Federated Learning for sparse models in the under-determined domain. My other research work spans the fields of Computational Social Sciences, Adversarial Robustness, and their relation to privacy. Some of my notable research/industry experiences have been at Facebook (Meta) and the University of Tokyo.
 
 Please find the list of my publications under [the research page](/research/) and my CV under [the CV page](/cv/). If you're curious about my other software projects, check out the [*curious page*](https://www.thepursuits.xyz/).
 
