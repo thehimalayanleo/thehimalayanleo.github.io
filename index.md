@@ -29,6 +29,14 @@ Please find the list of my publications under [the research page](/research/) an
     <div class="tl-item" data-year="2026">
       <div class="tl-marker"></div>
       <div class="tl-card">
+        <span class="tl-date">May 2026 <span class="tl-tag tag-community">community</span></span>
+        <p class="tl-body">Joined the <a href="https://events.ycombinator.com/ycpaperclub">YC Paper Club</a>, a reading group for exploring frontier research in AI and technology.</p>
+      </div>
+    </div>
+
+    <div class="tl-item" data-year="2026">
+      <div class="tl-marker"></div>
+      <div class="tl-card">
         <span class="tl-date">May 2026 <span class="tl-tag tag-conference">conference</span></span>
         <p class="tl-body">Will be attending the <a href="https://www.far.ai/events/event-list/verification-workshop">Workshop on Assurance and Verification of AI Development (AVID)</a> on May 17th, co-located with IEEE S&amp;P in San Francisco, organized by FAR.AI in partnership with the Center for AI Safety.</p>
       </div>
