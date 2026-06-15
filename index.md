@@ -29,6 +29,14 @@ Please find the list of my publications under [the research page](/research/) an
     <div class="tl-item" data-year="2026">
       <div class="tl-marker"></div>
       <div class="tl-card">
+        <span class="tl-date">June 2026 <span class="tl-tag tag-milestone">milestone</span></span>
+        <p class="tl-body">My PhD thesis, <a href="https://hammer.purdue.edu/articles/thesis/Differentially_Private_Federated_Learning_Algorithms_for_Sparse_Basis_Recovery/26031331">Differentially Private Federated Learning Algorithms for Sparse Basis Recovery</a>, is now out of embargo and publicly available.</p>
+      </div>
+    </div>
+
+    <div class="tl-item" data-year="2026">
+      <div class="tl-marker"></div>
+      <div class="tl-card">
         <span class="tl-date">May 2026 <span class="tl-tag tag-community">community</span></span>
         <p class="tl-body">Joined the <a href="https://events.ycombinator.com/ycpaperclub">YC Paper Club</a>, a reading group for exploring frontier research in AI and technology.</p>
       </div>
