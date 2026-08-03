@@ -29,6 +29,14 @@ Please find the list of my publications under [the research page](/research/) an
     <div class="tl-item" data-year="2026">
       <div class="tl-marker"></div>
       <div class="tl-card">
+        <span class="tl-date">July 2026 <span class="tl-tag tag-hackathon">competition</span></span>
+        <p class="tl-body">Placed 6th of 107 entries on <a href="https://www.gpumode.com/leaderboard/776">GPU MODE's B200 Cholesky leaderboard</a>, with a 308.315 &micro;s geometric-mean runtime across 15 ranked benchmark shapes. A later natural-gradient audit passed 3 of 8 additional shapes, so I treat this as a leaderboard placement rather than universal Cholesky validation.</p>
+      </div>
+    </div>
+
+    <div class="tl-item" data-year="2026">
+      <div class="tl-marker"></div>
+      <div class="tl-card">
         <span class="tl-date">June 2026 <span class="tl-tag tag-milestone">milestone</span></span>
         <p class="tl-body">My PhD thesis, <a href="https://hammer.purdue.edu/articles/thesis/Differentially_Private_Federated_Learning_Algorithms_for_Sparse_Basis_Recovery/26031331">Differentially Private Federated Learning Algorithms for Sparse Basis Recovery</a>, is now out of embargo and publicly available.</p>
       </div>
