@@ -30,7 +30,7 @@ Please find the list of my publications under [the research page](/research/) an
       <div class="tl-marker"></div>
       <div class="tl-card">
         <span class="tl-date">July 2026 <span class="tl-tag tag-hackathon">competition</span></span>
-        <p class="tl-body">Placed 6th of 107 entries on <a href="https://www.gpumode.com/leaderboard/776">GPU MODE's B200 Cholesky leaderboard</a>, with a 308.315 &micro;s geometric-mean runtime across 15 ranked benchmark shapes. A later natural-gradient audit passed 3 of 8 additional shapes, so I treat this as a leaderboard placement rather than universal Cholesky validation.</p>
+        <p class="tl-body">Placed 6th of 107 entries on <a href="https://www.gpumode.com/leaderboard/776">GPU MODE's B200 Cholesky leaderboard</a>, with a 308.315 &micro;s geometric-mean runtime across 15 ranked benchmark shapes.</p>
       </div>
     </div>
 
