@@ -45,14 +45,17 @@ permalink: /cv/
 
 <div class="cv-section">
 <h2>Research Interests</h2>
-<p>Frontier AI Safety, Interpretability, and Evaluations: I focus on mechanistic understanding of neural networks and building rigorous evaluation frameworks to detect and control harmful behavior in high-capability systems. During my PhD, I developed theoretically grounded sparsification methods under differential privacy and federated learning constraints, achieving near-SOTA performance with only 8–10% of dense parameters. At Meta Integrity, I design and deploy LLM-driven safety systems at scale across Facebook, Instagram, and Threads.</p>
+<p>Frontier AI Safety, Interpretability, and Evaluations: I focus on mechanistic understanding of neural networks and building rigorous evaluation frameworks to detect and control harmful behavior in high-capability systems. During my PhD, I developed theoretically grounded sparsification methods under differential privacy and federated learning constraints, achieving near-SOTA performance with only 8–10% of dense parameters. At Meta Integrity, I designed and deployed LLM-driven safety systems at scale across Facebook, Instagram, and Threads.</p>
 </div>
 
 <div class="cv-section">
 <h2>Experience</h2>
 
+<div class="cv-entry"><span class="cv-entry-title">Stealth Startup</span></div>
+<div class="cv-entry-meta"><span class="cv-entry-role">Founding AI Research Scientist</span><span class="cv-entry-date">Oct 2026 – Present</span></div>
+
 <div class="cv-entry"><span class="cv-entry-title">Meta Platforms, Inc</span><span class="cv-entry-loc">Menlo Park, CA</span></div>
-<div class="cv-entry-meta"><span class="cv-entry-role">Senior Research Scientist (AI Safety / Integrity Evals)</span><span class="cv-entry-date">Feb 2026 – Present</span></div>
+<div class="cv-entry-meta"><span class="cv-entry-role">Senior Research Scientist (AI Safety / Integrity Evals)</span><span class="cv-entry-date">Feb 2026 – Oct 2026</span></div>
 <ul class="cv-bullets">
 <li>Own safety evaluations for integrity LLMs, building automated red-teaming/robustness suites (prompt-injection variants, policy-bypass probes, adversarial scenarios) to prevent regressions pre-rollout.</li>
 <li>Develop user-experience metrics and operationalize them via stratified evaluation and holdouts to understand user retention patterns.</li>

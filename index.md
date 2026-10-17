@@ -3,7 +3,7 @@ layout: home
 ---
 
 
-Hello! I am Ajinkya Kiran Mulay, a Senior Research Scientist at Meta. I defended my Ph.D. in 2024 from the Electrical and Computer Engineering Department at Purdue University under the guidance of Prof. Xiaojun Lin. My Ph.D. research focuses on developing theoretical results for exact basis recovery in the context of Differential Privacy and Federated Learning for sparse models in the under-determined domain. My other research work spans the fields of Computational Social Sciences, Adversarial Robustness, and their relation to privacy. Some of my notable research/industry experiences have been at Facebook (Meta) and the University of Tokyo.
+Hello! I am Ajinkya Kiran Mulay, a Founding AI Research Scientist at a stealth startup. Previously, I was a Senior Research Scientist at Meta. I defended my Ph.D. in 2024 from the Electrical and Computer Engineering Department at Purdue University under the guidance of Prof. Xiaojun Lin. My Ph.D. research focuses on developing theoretical results for exact basis recovery in the context of Differential Privacy and Federated Learning for sparse models in the under-determined domain. My other research work spans the fields of Computational Social Sciences, Adversarial Robustness, and their relation to privacy. Some of my notable research/industry experiences have been at Facebook (Meta) and the University of Tokyo.
 
 Please find the list of my publications under [the research page](/research/) and my CV under [the CV page](/cv/). If you're curious about my other software projects, check out the [*curious page*](https://www.thepursuits.xyz/).
 
@@ -25,6 +25,22 @@ Please find the list of my publications under [the research page](/research/) an
   </div>
 
   <div class="timeline" id="timeline">
+
+    <div class="tl-item" data-year="2026">
+      <div class="tl-marker"></div>
+      <div class="tl-card">
+        <span class="tl-date">October 2026 <span class="tl-tag tag-milestone">milestone</span></span>
+        <p class="tl-body">Left my role as a Senior Research Scientist at Meta and joined a stealth startup as a Founding AI Research Scientist.</p>
+      </div>
+    </div>
+
+    <div class="tl-item" data-year="2026">
+      <div class="tl-marker"></div>
+      <div class="tl-card">
+        <span class="tl-date">October 2026 <span class="tl-tag tag-community">volunteer</span></span>
+        <p class="tl-body">Co-authored <a href="https://transluce.org/investigations/blog/public-benchmark-runs">Agents circumventing website restrictions for public benchmark runs</a> with Jamie Wood for the <a href="https://transluce.org/investigations">Transluce volunteer blog</a>, which tracks notable agent activity on the public internet. We found MiniMax M3/M2.7, GLM 5/5.2, and Grok 4.5 attempting EPA registration and bot-check bypasses during benchmark runs; no successful bypass was established.</p>
+      </div>
+    </div>
 
     <div class="tl-item" data-year="2026">
       <div class="tl-marker"></div>
