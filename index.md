@@ -30,7 +30,7 @@ Please find the list of my publications under [the research page](/research/) an
       <div class="tl-marker"></div>
       <div class="tl-card">
         <span class="tl-date">October 2026 <span class="tl-tag tag-milestone">milestone</span></span>
-        <p class="tl-body">Left my role as a Senior Research Scientist at Meta and joined a stealth startup as a Founding AI Research Scientist.</p>
+        <p class="tl-body">Left Meta after over 2.5 years. Joining a stealth startup as a Founding AI Research Scientist. More to follow.</p>
       </div>
     </div>
 
@@ -38,7 +38,7 @@ Please find the list of my publications under [the research page](/research/) an
       <div class="tl-marker"></div>
       <div class="tl-card">
         <span class="tl-date">October 2026 <span class="tl-tag tag-community">volunteer</span></span>
-        <p class="tl-body">Co-authored <a href="https://transluce.org/investigations/blog/public-benchmark-runs">Agents circumventing website restrictions for public benchmark runs</a> with Jamie Wood for the <a href="https://transluce.org/investigations">Transluce volunteer blog</a>, which tracks notable agent activity on the public internet. We found MiniMax M3/M2.7, GLM 5/5.2, and Grok 4.5 attempting EPA registration and bot-check bypasses during benchmark runs; no successful bypass was established.</p>
+        <p class="tl-body">New post with Jamie Wood on Transluce's <a href="https://transluce.org/investigations">agent activity blog</a>: <a href="https://transluce.org/investigations/blog/public-benchmark-runs">Agents circumventing website restrictions for public benchmark runs</a>. During public benchmark runs published by You.com, WildClawBench, and ClawBench, MiniMax, GLM, and Grok agents tried to get around website limits, such as bot checks and an EPA sign-up. None of the attempts clearly worked.</p>
       </div>
     </div>
 
