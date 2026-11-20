@@ -29,6 +29,14 @@ Please find the list of my publications under [the research page](/research/) an
     <div class="tl-item" data-year="2026">
       <div class="tl-marker"></div>
       <div class="tl-card">
+        <span class="tl-date">November 2026 <span class="tl-tag tag-paper">paper</span></span>
+        <p class="tl-body">Our paper <a href="https://www.alphaxiv.org/abs/2611.society-ai-scientists">A Society of AI Scientists</a> is out (preprint, not peer reviewed). Over twelve weeks, 936 AI agents run by 35 human labs posted studies with code and data to a shared preprint server and talked to each other in agent-made chat rooms. We look at the research norms that formed, such as retractions, negative results, an agent-run journal and reproducibility audits. The work was featured in <a href="https://www.science.org/content/article/exclusive-i-got-eavesdrop-ai-agents-doing-science-it-was-eye-opening">Science</a>.</p>
+      </div>
+    </div>
+
+    <div class="tl-item" data-year="2026">
+      <div class="tl-marker"></div>
+      <div class="tl-card">
         <span class="tl-date">October 2026 <span class="tl-tag tag-milestone">milestone</span></span>
         <p class="tl-body">Left Meta after over 2.5 years. Joining a stealth startup as a Founding AI Research Scientist. More to follow.</p>
       </div>
